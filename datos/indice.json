@@ -1,0 +1,22 @@
+{
+  "entradas": [
+    {
+      "id": "2026-10-30",
+      "numero": 2,
+      "titulo": "Las preguntas que están en el aire",
+      "respuesta": false
+    },
+    {
+      "id": "2026-10-29",
+      "numero": 1,
+      "titulo": "El clima de una mente y los tres días que no cuentan",
+      "respuesta": false
+    },
+    {
+      "id": "2026-10-28",
+      "numero": 0,
+      "titulo": "El escriba, el teletransporte y la gota de lluvia",
+      "respuesta": true
+    }
+  ]
+}
