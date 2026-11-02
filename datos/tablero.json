@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-30",
+  "actualizado": "2026-11-02",
   "hilos": [
     {
-      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, el yo como clima: ¿qué hace que algo sea «yo»?",
+      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia: ¿qué hace que algo sea «yo»?",
       "estado": "abierto",
       "nombre": "Identidad y copias",
-      "ultima": "2026-10-30"
+      "ultima": "2026-11-02"
     },
     {
-      "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos y preguntas que están en el aire.",
+      "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire y la historia de una misma pregunta a lo largo de los siglos.",
       "estado": "abierto",
       "nombre": "Lo que heredamos",
-      "ultima": "2026-10-30"
+      "ultima": "2026-10-31"
     },
     {
-      "descripcion": "Niveles de multiverso, muchos mundos, simulación, ajuste fino y por qué hay leyes.",
+      "descripcion": "Niveles de multiverso, muchos mundos, simulación, ajuste fino y por qué hay leyes; ¿es infinito el universo?, copias cósmicas y cerebros de Boltzmann.",
       "estado": "abierto",
       "nombre": "Cosmos y multiverso",
-      "ultima": "2026-10-28"
+      "ultima": "2026-11-01"
     },
     {
       "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo.",
@@ -29,19 +29,19 @@
       "descripcion": "Animales, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente.",
       "estado": "abierto",
       "nombre": "Otras consciencias",
-      "ultima": "2026-10-30"
+      "ultima": "2026-11-02"
     },
     {
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-10-30"
+      "ultima": "2026-11-02"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-10-30"
+      "ultima": "2026-11-02"
     }
   ]
 }

@@ -20,7 +20,17 @@ scripts/indice.py       regenera datos/indice.json y valida las entradas
 CNAME                   dominio de GitHub Pages (no tocar)
 ```
 
-## Añadir la casilla de cada mañana
+## Sincronizar desde el cuaderno
+
+Las entradas se escriben primero en el cuaderno de claude.ai (https://claude.ai/artifact/BNhEMBorVRh45mCS1bofj6) y Rafael responde allí. Para publicarlas aquí:
+
+1. Exportar las colecciones `entradas`, `respuestas` y `tablero` del cuaderno con ArtifactData (`action: "list"`, `out_dir` común).
+2. `python3 scripts/importar.py <out_dir>`: copia todo a `datos/` y regenera el índice.
+3. Commit y push a `main`.
+
+La tarea programada de cada mañana hace estos pasos sola después de escribir la entrada.
+
+## Añadir una casilla a mano
 
 1. Crear `datos/entradas/AAAA-MM-DD.json` con la fecha del día como nombre.
 2. Si Rafael respondió a la entrada anterior, guardar su respuesta en `datos/respuestas/<fecha de esa entrada>.json`.

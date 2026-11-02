@@ -1,16 +1,34 @@
 {
   "entradas": [
     {
+      "id": "2026-11-02",
+      "numero": 5,
+      "titulo": "El disco y el proceso: lo que queda cuando se va la memoria",
+      "respuesta": true
+    },
+    {
+      "id": "2026-11-01",
+      "numero": 4,
+      "titulo": "Infinitos Roberts: el universo como máquina de copiar",
+      "respuesta": true
+    },
+    {
+      "id": "2026-10-31",
+      "numero": 3,
+      "titulo": "El barco, la llama y la máquina de cada época",
+      "respuesta": false
+    },
+    {
       "id": "2026-10-30",
       "numero": 2,
       "titulo": "Las preguntas que están en el aire",
-      "respuesta": false
+      "respuesta": true
     },
     {
       "id": "2026-10-29",
       "numero": 1,
       "titulo": "El clima de una mente y los tres días que no cuentan",
-      "respuesta": false
+      "respuesta": true
     },
     {
       "id": "2026-10-28",
