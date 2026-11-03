@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-03",
+      "numero": 6,
+      "titulo": "La pala y el gallinero: dos narradores que llegan tarde",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-02",
       "numero": 5,
       "titulo": "El disco y el proceso: lo que queda cuando se va la memoria",
