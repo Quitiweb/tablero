@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-04",
+      "numero": 7,
+      "titulo": "El vecino, el gemelo y el demonio que no puede avisar",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-03",
       "numero": 6,
       "titulo": "La pala y el gallinero: dos narradores que llegan tarde",

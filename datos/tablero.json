@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-04",
   "hilos": [
     {
-      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia: ¿qué hace que algo sea «yo»?",
+      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia: ¿qué hace que algo sea «yo»?",
       "estado": "abierto",
       "nombre": "Identidad y copias",
-      "ultima": "2026-11-03"
+      "ultima": "2026-11-04"
     },
     {
       "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire y la historia de una misma pregunta a lo largo de los siglos.",
@@ -20,10 +20,10 @@
       "ultima": "2026-11-01"
     },
     {
-      "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo.",
+      "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo; predecir una mente desde fuera y desde dentro, gemelos digitales y el límite de MacKay.",
       "estado": "abierto",
       "nombre": "Límites de lo predecible",
-      "ultima": "2026-10-29"
+      "ultima": "2026-11-04"
     },
     {
       "descripcion": "Animales, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente.",
@@ -32,22 +32,22 @@
       "ultima": "2026-11-03"
     },
     {
-      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA y si dos narradores con sesgos distintos ven más tablero.",
+      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero y los gemelos digitales hiperracionales.",
       "estado": "abierto",
       "nombre": "El animal y el narrador",
-      "ultima": "2026-11-03"
+      "ultima": "2026-11-04"
     },
     {
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-11-03"
+      "ultima": "2026-11-04"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-11-03"
+      "ultima": "2026-11-04"
     }
   ]
 }

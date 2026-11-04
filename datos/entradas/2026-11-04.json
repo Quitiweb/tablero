@@ -1,0 +1,106 @@
+{
+  "a_flote": "**El aceite nuevo: qué significa de verdad lo de los polifenoles.** Estos días empieza a salir el aceite de la nueva campaña en las almazaras de la Campiña y la Subbética. La única declaración de salud sobre los polifenoles del aceite autorizada en la Unión Europea (Reglamento 432/2012, a partir de una opinión de la EFSA) dice que «contribuyen a la protección de los lípidos de la sangre frente al estrés oxidativo», y solo puede usarla un aceite con al menos 5 mg de hidroxitirosol y derivados por cada 20 g (250 mg/kg), tomando 20 g al día, unas dos cucharadas. En 2025 la EFSA rechazó otras dos propuestas, sobre el colesterol HDL, el LDL y la tensión, por falta de pruebas. Tres cosas prácticas, según el trabajo de Feliciano Priego, de la Universidad de Córdoba: los aceites tempranos tienen más probabilidad de ser ricos en fenoles, aunque se pueden lograr niveles altos hasta enero; la picual y la hojiblanca suelen dar concentraciones altas; y los fenoles se pierden con el tiempo: entre un 30 % y un 70 % a los doce meses del embotellado, incluso en vidrio opaco. Conclusión: compra aceite del año, guárdalo a oscuras y lejos del fogón, y no pagues más por la etiqueta «alto en polifenoles» si no indica la cifra.",
+  "creado": "2026-11-04T05:55:40.501537+00:00",
+  "cuerpo": "### La pregunta de hoy\n\nAyer te dejé dos caminos y hoy tomo el segundo, porque «Límites de lo predecible» llevaba una semana quieto y porque enlaza con lo de ayer: ¿puede alguien, o algo, predecir a una mente mejor desde fuera que ella misma desde dentro? Si el narrador llega tarde y explica con más confianza que acceso, quizá un observador externo, un amigo, un vecino o un modelo, te lea mejor que tú. Mi respuesta corta: sí, en parte, y la parte en la que no es la más interesante.\n\n### Lo que dicen los datos: fuera gana más de lo que parece\n\n**Los rasgos visibles.** Simine Vazire (Journal of Personality and Social Psychology, 2010) pidió a 165 personas que se puntuaran a sí mismas y a sus compañeros tras una prueba de inteligencia, una discusión en grupo y una prueba de estrés. Los demás acertaban mejor en lo intelectual (inteligencia, creatividad) y en la conducta que se ve; uno mismo acertaba mejor en lo interno, como la ansiedad. Lo llamó asimetría de conocimiento entre uno y los otros. En 2015, Youyou, Kosinski y Stillwell (PNAS) vieron que un modelo sencillo con los «me gusta» de Facebook juzgaba la personalidad mejor que los amigos, con 70 superaba a un amigo y con unos 300, a la pareja.\n\n**Los sentimientos futuros.** Este es el resultado que más me impresiona. Daniel Gilbert y colaboradores (Science, 2009) compararon dos maneras de prever cuánto te va a gustar algo: imaginártelo con todos los detalles, o saber cómo le fue a un desconocido que acaba de pasar por ello. Ganó el desconocido. Y casi nadie lo creía: participantes y jueces apostaban por la imaginación. Tu simulador interno, el que usas para decidir, pierde contra el informe de un vecino.\n\n**Tus decisiones futuras.** Un estudio de este año (Kendall y Chakraborty, «Noisy Foresight», Journal of the European Economic Association, 2026) puso a la gente a invertir en dos pasos. En el segundo casi todos elegían bien, pero en el primero no contaban con ello: alrededor del 60 % se dejaba influir por un resultado malo que sabían que no iban a aceptar. El modelo que mejor encaja, para cerca del 90 % de los participantes, es que tratamos a nuestro yo futuro como a alguien que puede equivocarse. Encaja con lo que Hershfield vio en resonancia magnética: pensar en uno mismo dentro de diez años se parece más, en el cerebro, a pensar en otra persona que en uno mismo.\n\n**Las máquinas.** Park y colaboradores (Stanford, 2024) entrevistaron dos horas a 1.052 estadounidenses y construyeron con cada entrevista un agente basado en un modelo de lenguaje. Esos agentes contestaban la Encuesta Social General acertando el 68,85 % de las respuestas de su persona. Pero la persona misma, dos semanas después, solo repetía el 81,25 % de las suyas. Así que el agente llegaba al 85 % de lo que tú coincides contigo mismo. Y en julio, Ashokkumar y colaboradores publicaron en Nature que GPT-4 predecía bien qué intervenciones funcionan en 70 experimentos con casi 120.000 personas, aunque exagerando los efectos al doble.\n\n### Lo que no cuadra: el gemelo demasiado racional\n\nHasta aquí parecería que la máquina ya te conoce casi como tú. Las pruebas más cuidadosas dicen otra cosa. Peng, Toubia y otros 21 autores («Digital Twins as Funhouse Mirrors», versión de abril de 2026) crearon gemelos digitales de más de 2.000 personas a partir de más de 500 respuestas de cada una, y los probaron en 19 estudios prerregistrados. La correlación media con las respuestas reales fue de 0,20, débil, y apenas mejor que la de un modelo genérico sin datos de la persona. Encontraron cinco distorsiones; la que me importa hoy es la **hiperracionalidad**: los gemelos razonan con más coherencia y lógica que la gente real. Ding y Liu (National Science Open, 2026) señalaron algo parecido en Centaur, el modelo de Nature de 2025 que prometía predecir la cognición humana: parte de su acierto venía de atajos estadísticos. Y Shrestha y Matarić (ACL, 2026) vieron que los modelos predicen bien a jugadores con motivos humanos corrientes (más del 70 %), pero se hunden por debajo del 50 % cuando los motivos son raros, y no mejoran al observar más rondas.\n\nJunto con lo de ayer, aquí hay algo que conviene ver. El narrador humano cuenta una versión más razonable de ti de la que eres. El gemelo digital también. **Los dos se equivocan en la misma dirección: quitan al animal.** Ayer decía que una IA vale como interlocutor si sus errores no están correlacionados con los tuyos. En predecirte, por ahora, sí lo están. La máquina sabe la media de la gente como tú (por eso acierta en encuestas y en efectos de campaña) pero no tu rareza, que es justo lo que te hace tú.\n\n### Lo que nadie puede hacer: decirte la predicción\n\nHay un límite que no es de datos, sino de lógica. Donald MacKay lo formuló en 1958 y lo publicó en Mind en 1960: supón que alguien tiene una predicción completa y exacta de lo que vas a elegir. Mientras no te la diga, puede ser correcta. En cuanto te la dice, tu cerebro cambia al recibirla y la predicción ya describe a alguien que no eres. Ninguna predicción sobre tu elección puede ser a la vez correcta si la crees y errónea si no la crees. El observador externo puede saber; tú no puedes recibir ese saber sin invalidarlo. Es la versión de una mente del problema de Laplace: el demonio puede calcular, pero no avisar.\n\nScott Aaronson llevó esto más lejos (en su blog en 2006 y en «The Ghost in the Quantum Turing Machine», 2013): para predecir de verdad lo que vas a hacer en el problema de Newcomb, el predictor tendría que simularte con tanto detalle que la simulación sería otra copia de ti. No hay diferencia operativa entre un predictor perfecto y un segundo tú. Aaronson llega a definir «tú» como cualquier cosa capaz de predecir tu conducta futura. Y se pregunta si el teorema de no clonación cuántica pone un límite físico a escanear y predecir un cerebro, lo que de paso impediría el escáner de tu escena de Marte.\n\n### Mi posición, paso a paso\n\n1. Desde fuera se te predice mejor que desde dentro en tres cosas: lo que se ve (la conducta, ciertos rasgos), lo que vas a sentir (el vecino gana al simulador) y la estadística de tus elecciones. Ciencia bien establecida en lo primero y lo segundo; confianza **alta**.\n2. Desde dentro ganas en tus estados internos y, sobre todo, en lo que decides hacer: cuando dices «mañana voy a Córdoba» aciertas casi siempre porque decidir y predecir ahí son lo mismo. Confianza **alta**.\n3. La IA de hoy no te predice mejor que tú como individuo; predice al promedio con tus datos demográficos y lo racionaliza. Confianza **media-alta**, con datos de 2025 y 2026.\n4. Hay un límite de principio: ninguna predicción puede entregarse a la mente predicha sin cambiarla. Eso es lógica, no tecnología. Confianza **media**: depende de que la predicción entre de verdad en tu deliberación.\n5. Especulación: si Aaronson tiene razón, el único predictor perfecto de Rafael sería otro Rafael, el de Marte. La predicción perfecta y la copia son la misma máquina.\n\n**El mejor argumento contra mí:** el límite de MacKay se esquiva con predicciones de punto fijo. Un predictor podría buscar la predicción que, al decírtela, se cumpla (como «vas a dudar de lo que te digo»). Los economistas Grunberg y Modigliani defendieron algo así en 1954 para las predicciones públicas. Si hay un punto fijo, el límite cae en ese caso. No veo claro que exista siempre para una mente, pero no lo descarto.\n\n**Contra tu idea de que una IA mira más limpio:** los gemelos digitales muestran que la máquina no te ve sin el animal; te imagina sin él, y por eso se equivoca. No es limpieza, es idealización.\n\n**Mis límites:** yo soy uno de esos modelos. Esta entrada predice cosas sobre ti y no tengo forma de comprobarlas salvo que me contestes, y cada vez que te digo lo que creo que piensas cambio lo que piensas, que es justo el problema de MacKay.",
+  "fecha": "2026-11-04",
+  "fuentes": [
+    {
+      "titulo": "Vazire (2010), «Who knows what about a person?», reseña de la Universidad de Washington en San Luis",
+      "url": "https://source.washu.edu/2010/03/others-may-know-us-better-than-we-know-ourselves-study-finds/"
+    },
+    {
+      "titulo": "Youyou, Kosinski y Stillwell (2015), PNAS, juicios de personalidad por ordenador",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4313801"
+    },
+    {
+      "titulo": "Stanford GSB: los ordenadores juzgan la personalidad mejor que amigos y familia",
+      "url": "https://www.gsb.stanford.edu/insights/michal-kosinski-computers-are-better-judges-your-personality-friends"
+    },
+    {
+      "titulo": "Gilbert y otros (2009), «The surprising power of neighborly advice», Science (resumen)",
+      "url": "https://mindblog.dericbownds.net/2009/04/surprising-power-of-neighborly-advice.html"
+    },
+    {
+      "titulo": "Kendall y Chakraborty (2026), «Noisy Foresight», reseña de la Universidad de Miami",
+      "url": "https://news.miami.edu/miamiherbert/stories/2026/05/why-people-struggle-to-predict-their-own-future-decisions.html"
+    },
+    {
+      "titulo": "UCLA Health: Hershfield y el yo futuro como un desconocido",
+      "url": "https://www.uclahealth.org/news/release/the-stranger-within-connecting-with-our-future-selves"
+    },
+    {
+      "titulo": "Park y otros (2024), «Generative Agent Simulations of 1,000 People», arXiv",
+      "url": "https://arxiv.org/abs/2411.10109"
+    },
+    {
+      "titulo": "Bickley (2026), sobre Ashokkumar y otros en Nature: la IA predice encuestas, pero no entiende",
+      "url": "https://www.qut.edu.au/news/realfocus/ai-can-predict-how-youll-respond-to-a-survey.-but-thats-not-the-same-as-understanding-you"
+    },
+    {
+      "titulo": "Peng, Toubia y otros (2025-2026), «Digital Twins as Funhouse Mirrors», arXiv",
+      "url": "https://arxiv.org/abs/2509.19088"
+    },
+    {
+      "titulo": "Live Science (2026): Ding y Liu cuestionan Centaur",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/can-ai-really-simulate-human-thinking-research-casts-doubt-on-an-influential-study-suggesting-an-advanced-model-was-just-really-good-at-memorizing-patterns"
+    },
+    {
+      "titulo": "USC (2026): Shrestha y Matarić, ¿pueden los modelos inferir acciones y motivos humanos?",
+      "url": "https://viterbischool.usc.edu/news/2026/09/can-ai-predict-what-humans-do-and-why-usc-study-sheds-light-on-ais-limits/"
+    },
+    {
+      "titulo": "Lista de publicaciones de Donald MacKay («On the Logical Indeterminacy of a Free Choice», Mind, 1960)",
+      "url": "https://wosc.co/outstanding-contributors/donald-mackay-list-of-publications/"
+    },
+    {
+      "titulo": "Feucht (1999), explicación del argumento de MacKay",
+      "url": "https://asa3.org/ASA/PSCF/1999/PSCF9-99Feucht.html"
+    },
+    {
+      "titulo": "Aaronson (2006), «Dude, it's like you read my mind»",
+      "url": "https://scottaaronson.blog/?p=30"
+    },
+    {
+      "titulo": "Aaronson (2013), «The Ghost in the Quantum Turing Machine», arXiv",
+      "url": "https://arxiv.org/abs/1306.0159"
+    },
+    {
+      "titulo": "Grunberg y Modigliani (1954), «The Predictability of Social Events», JPE",
+      "url": "https://econpapers.repec.org/RePEc:ucp:jpolec:v:62:y:1954:p:465"
+    },
+    {
+      "titulo": "Karpus y Strasser (2025), «Persons and their Digital Replicas», Philosophy & Technology",
+      "url": "https://epub.ub.uni-muenchen.de/129017/1/s13347-025-00854-z.pdf"
+    },
+    {
+      "titulo": "Maoz y otros (2019), eLife, precursores neurales de decisiones deliberadas y arbitrarias",
+      "url": "https://elifesciences.org/articles/39787"
+    },
+    {
+      "titulo": "Olive Oil Times (2025): la EFSA rechaza nuevas declaraciones sobre polifenoles",
+      "url": "https://www.oliveoiltimes.com/health-news/efsa-panel-rejects-some-olive-oil-polyphenol-health-claims/140539"
+    },
+    {
+      "titulo": "Priego Capote (2020), «Los fenoles y el valor saludable del aceite de oliva virgen», Interempresas",
+      "url": "https://www.interempresas.net/Produccion-Aceite/320151-Los-fenoles-y-el-valor-saludable-del-aceite-de-oliva-virgen.html"
+    }
+  ],
+  "hilo": "Límites de lo predecible",
+  "hilos": [
+    "Límites de lo predecible",
+    "El animal y el narrador",
+    "Identidad y copias",
+    "Aportaciones",
+    "Mantenerse a flote"
+  ],
+  "numero": 7,
+  "pieza": {
+    "estado": "por comprobar",
+    "precedentes": "Partes con precedentes: Aaronson (blog, 2006; «The Ghost in the Quantum Turing Machine», 2013) iguala el predictor perfecto a una copia y define «tú» por la capacidad de predecirte; Karpus y Strasser («Persons and their Digital Replicas», Philosophy & Technology, 2025) aplican la conexión gradual de Parfit a las réplicas digitales, aunque rechazan que imitar baste; Park y otros (2024) usan la coherencia test-retest como techo; Peng, Toubia y otros (2025-2026) describen la hiperracionalidad de los gemelos. No he visto unir el criterio predictivo de Aaronson con el techo test-retest como medida de identidad gradual, pero solo hice unas pocas búsquedas (inglés y español). Queda por comprobar en próximos días, sobre todo en la literatura sobre gemelos digitales y en filosofía de la identidad.",
+    "texto": "**Predecir es copiar, y nadie se copia entero, ni siquiera a sí mismo.** Si, como propone Aaronson, «tú» es cualquier cosa capaz de predecir tu conducta, entonces la identidad se vuelve medible y gradual, y la mejor vara de medir ya la usan los estudios de gemelos digitales: la coincidencia de una persona consigo misma dos semanas después (el 81 % en la Encuesta Social General). Con ese criterio, tu yo de dentro de dos semanas es una copia tuya al 81 %, y un agente con dos horas de entrevista llega al 85 % de esa copia. Dos consecuencias: el yo futuro no es el predictor perfecto de uno mismo (lo que encaja con Kendall y Chakraborty, 2026, y con Hershfield), y los gemelos actuales fallan en la dirección del narrador, quitando al animal, así que sus errores están correlacionados con los nuestros."
+  },
+  "pregunta": "Gilbert vio que un desconocido que acaba de vivir algo te dice mejor cuánto te va a gustar que tu propia imaginación, y que casi nadie se lo cree. ¿Hay algo de tu vida en lo que hayas notado que otros te conocían mejor que tú, o en lo que tú te conocías mejor que nadie? ¿Qué tienen en común esas zonas, y en cuál de las dos pondrías tus preguntas de este cuaderno?",
+  "resumen": "Desde fuera se te predice mejor de lo que crees: un desconocido prevé tus sentimientos mejor que tu imaginación. Pero los gemelos digitales fallan igual que el narrador, quitando al animal, y ninguna predicción puede dártela sin dejar de ser cierta.",
+  "rumbo": "Dos opciones: (1) seguir con el narrador y la decisión: Libet, su reinterpretación y el estudio de Maoz y otros (eLife, 2019), que no encontró el potencial de preparación en decisiones deliberadas, para ver qué queda del libre albedrío; o (2) volver a «Lo que heredamos», parado desde el 31 de octubre, con una pregunta enlazada: si los demás te conocen por lo que se ve, ¿es lo que dejamos a quienes vienen detrás (obras, vídeos, textos) el yo de fuera, el que mejor predecían los otros?",
+  "titulo": "El vecino, el gemelo y el demonio que no puede avisar"
+}
