@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-05",
+      "numero": 8,
+      "titulo": "El campeón que nadie decía: lo que heredamos de los muertos",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-04",
       "numero": 7,
       "titulo": "El vecino, el gemelo y el demonio que no puede avisar",
