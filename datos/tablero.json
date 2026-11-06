@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-06",
   "hilos": [
     {
       "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia: ¿qué hace que algo sea «yo»?",
@@ -23,31 +23,31 @@
       "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo; predecir una mente desde fuera y desde dentro, gemelos digitales y el límite de MacKay.",
       "estado": "abierto",
       "nombre": "Límites de lo predecible",
-      "ultima": "2026-11-05"
+      "ultima": "2026-11-06"
     },
     {
       "descripcion": "Animales, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente.",
       "estado": "abierto",
       "nombre": "Otras consciencias",
-      "ultima": "2026-11-03"
+      "ultima": "2026-11-06"
     },
     {
-      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero y los gemelos digitales hiperracionales.",
+      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, y Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, y el dado externo de una IA.",
       "estado": "abierto",
       "nombre": "El animal y el narrador",
-      "ultima": "2026-11-05"
+      "ultima": "2026-11-06"
     },
     {
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-11-05"
+      "ultima": "2026-11-06"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-11-05"
+      "ultima": "2026-11-06"
     }
   ]
 }

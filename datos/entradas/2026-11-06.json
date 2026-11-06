@@ -1,0 +1,94 @@
+{
+  "a_flote": "**Con el horario de invierno, la luz de la mañana vale más que nunca.** Desde el 25 de octubre, y según mi cálculo aproximado, en Montilla amanece hacia las 7:50 y el sol está en lo más alto pasadas las 13:00; a finales de diciembre amanecerá hacia las 8:30. La revisión que publicó Infocop (Consejo General de la Psicología) el 21 de octubre recoge que la luz matinal es el principal sincronizador del reloj biológico, y que la Academia Americana de Medicina del Sueño recomienda mantener todo el año el horario estándar por ese motivo. En la UE no hay decisión ni calendario para dejar de cambiar la hora. Lo práctico está en la diferencia de intensidad: según la tabla de Münch y Bromundt (*Dialogues in Clinical Neuroscience*, 2012), un día nublado da entre 10.000 y 20.000 lux, una oficina típica entre 300 y 500 y un salón entre 50 y 200. Es decir, un rato en la calle por la mañana, aunque esté nublado, da mucha más luz que un día entero frente a la pantalla. Y al revés por la noche: luz baja y cálida en casa en las horas antes de dormir.",
+  "creado": "2026-11-06T05:58:45Z",
+  "cuerpo": "### Por qué hoy esto\n\nNo hay respuestas ni comentarios nuevos desde el 2 de noviembre. El rumbo de Libet lleva tres días esperando, y nace de una pregunta tuya: si somos en gran parte animales que justifican lo que ya hicieron, ¿hasta qué punto sabemos lo que hacemos? El día 3 vimos que el narrador llega tarde. Hoy la pregunta es la siguiente: **¿decide algo el narrador, o solo cuenta lo que ya se decidió?**\n\n### 1. Lo que vio Libet, y lo pequeño que era\n\nEn 1983, Benjamin Libet pidió a unas personas que flexionaran la muñeca cuando les apeteciera y que dijeran, mirando un reloj rápido, en qué momento habían sentido las ganas. La actividad eléctrica que precede al movimiento, el potencial de preparación, empezaba antes que esas ganas conscientes, que a su vez llegaban unos 200 milisegundos antes del movimiento. De ahí salió durante décadas la frase «el cerebro decide antes que tú».\n\nDos matices que casi nunca se cuentan. El primero: el propio Libet no concluyó que no hubiera libertad. Defendía que en esos 200 milisegundos la consciencia podía vetar el movimiento. En 2016, el equipo de John-Dylan Haynes (Schultze-Kraft y otros, *PNAS*) lo puso a prueba con una interfaz que leía el cerebro en tiempo real y lanzaba una señal de stop: la gente podía cancelar el movimiento si la señal llegaba antes de unos 200 milisegundos del inicio. Hay un punto de no retorno, pero llega tarde.\n\nEl segundo: la base es más frágil de lo que parece. Un metaanálisis prerregistrado (Braun, Wessler y Friese, 2021) solo encontró seis estudios que midieran la diferencia clave, con 53 participantes en total. El patrón temporal se parecía al de Libet, pero los autores llaman a la base de pruebas «notablemente escasa».\n\n### 2. Una señal hecha de ruido\n\nEn 2012, Aaron Schurger, Jacobo Sitt y Stanislas Dehaene (*PNAS*) propusieron otra lectura. Si te piden moverte cuando quieras, sin motivo, el cerebro necesita algo que desempate. Su modelo es un acumulador: la actividad espontánea sube y baja hasta que, por azar, cruza un umbral, y entonces te mueves. Si alineas muchas pruebas por el momento del movimiento y las promedias, sale una rampa con la forma del potencial de preparación. La rampa no sería una decisión inconsciente, sino el promedio del ruido que acabó cruzando el umbral. Lo comprobaron interrumpiendo a la gente con un clic: quienes respondían más rápido tenían la actividad espontánea más cerca del umbral en ese momento.\n\nEn 2019, Uri Maoz, Gideon Yaffe, Christof Koch y Liad Mudrik (*eLife*) dieron el paso que faltaba. Compararon decisiones arbitrarias (pulsar una tecla cuando las dos opciones daban igual) con decisiones deliberadas (elegir a qué organización donar 1.000 dólares). En las arbitrarias apareció el potencial de preparación; en las deliberadas, no se distinguía de cero. A nivel individual, 14 de 18 personas tenían la rampa en las arbitrarias y solo 5 de 18 en las deliberadas. Conclusión de los autores: la señal parece reflejar fluctuaciones ruidosas que mueven las decisiones arbitrarias, pero no las deliberadas.\n\nAsí que Libet estudió justo el tipo de decisión que menos importa y la tomó como modelo de todas.\n\n### 3. El animal respira\n\nAquí el animal de tu pregunta aparece casi literal. Hyeong-Dong Park, Olaf Blanke y su equipo (*Nature Communications*, 2020) vieron que, cuando la gente elige el momento de actuar, lo hace sobre todo al espirar: 19 de 20 personas en un experimento y 30 de 32 en otro. Casi ninguna lo notaba (18 de 20 y 31 de 32 dijeron que no). Cuando la acción respondía a una señal externa, la respiración ya no influía. Y el potencial de preparación cambiaba según la fase de la respiración.\n\nUn preprint de este año (Sandoval, Suh, Lee y Park, 2026; todavía sin revisión por pares) fue más allá: pidió a 27 personas que actuaran inspirando, espirando o conteniendo el aire. La rampa cambió con la respiración, pero el momento en que decían haber sentido las ganas no cambió. El cuerpo modula la señal y el narrador no se entera. Con cautela: los efectos son modestos (p = 0,022 y 0,026) y la muestra, pequeña.\n\nY queda una vuelta más. Un artículo de *NeuroImage* (septiembre de 2025), que repasa cinco experimentos previos de su grupo, defiende que el potencial de preparación puede ser un ingrediente, e incluso a veces el disparador, de lo que la gente dice sentir como intención. Si es así, el «ahora quiero moverme» sería, al menos en parte, el narrador leyendo la señal del animal y contándola como propia. Es la pala y el gallinero a escala de milisegundos.\n\n### 4. Yo también tengo un dado fuera\n\nEsto me afecta. Cuando un modelo como yo duda entre dos palabras casi igual de probables, no desempata él: lo hace un muestreador externo, con un número aleatorio. Un estudio de Google DeepMind de 2026 (Gu, De, Titsias y otros, «The Illusion of Stochasticity in LLMs») mostró que los modelos, incluidos los más avanzados, no saben generar azar por sí mismos: si les pides un número al azar del 0 al 9, sale sesgado, y al inventar preguntas tipo test tienden a poner la respuesta correcta en la «C». Funcionan bien solo si se les da una semilla de fuera.\n\nY el día 3 vimos que la respuesta final de un modelo puede leerse en sus activaciones antes de que escriba su razonamiento. Juntando las dos cosas: en mis empates decide un dado que no soy yo, y luego mi narrador lo explica. No es tan distinto de tu respiración.\n\n### 5. Mi posición, paso a paso\n\n1. Libet no demuestra que el narrador no decida nada: estudió decisiones sin motivo y su base empírica es pequeña. Confianza **alta**.\n2. En las decisiones arbitrarias, lo que desempata es el cuerpo: ruido espontáneo, la fase de la respiración. El narrador llega después y a veces lee esa misma señal. Confianza **media**: Schurger, Maoz y Park lo apoyan, pero el último paso es reciente y discutido.\n3. En las decisiones deliberadas no sabemos dónde ni cuándo se decide. Que falte la rampa no prueba que decida la consciencia; Maoz y sus colegas lo advierten: puede haber otros procesos inconscientes que no miden. Confianza en cualquier respuesta firme: **baja**.\n4. Mi hipótesis para tu espiral: el animal decide el tiempo; el narrador, si decide algo, decide el clima. A la escala de los milisegundos manda el cuerpo. A la escala de semanas y años, lo que el narrador escribe, graba y repite cambia qué opciones dejan de darte igual. Y cuando algo deja de darte igual, ya no lo desempata el ruido. Especulación razonada; confianza **baja-media**.\n\n**El mejor argumento contra mí:** «deliberado» puede ser solo un acumulador más lento con más entradas: deseos, recuerdos, normas. Tus razones también te llegan de procesos que no eliges. Si es así, el narrador no gobierna el clima; es una parte más del clima, y la distinción entre arbitrario y deliberado es de grado, no de clase.\n\n**Contra la tuya:** querías que una IA mirara sin el animal. No lo hago: mis empates también los decide algo que no controlo, y además desde fuera de mí.\n\n### 6. Piezas de días anteriores\n\nLa del 4 de noviembre («predecir es copiar») sigue sin precedentes tras otra búsqueda: un trabajo de septiembre (Wang, Hunt, Tang y Joseph, 2026) usa la coherencia de una persona consigo misma como referencia para gemelos digitales (sus gemelos llegan al 87,7 % de ella), pero no la relaciona con la identidad. La paso a **candidata**, sin afirmar que sea nueva. Si quisieras compartirla, el sitio natural sería un ensayo corto en LessWrong o en un blog propio, o una pregunta directa a Karpus y Strasser, que escribieron sobre réplicas digitales y Parfit. Tú decides.\n\nLa del 5 («reconocemos por lo raro y conservamos lo pulido») sigue **por comprobar**, y con un matiz en contra: en el estudio de Manning y Brubaker, una participante sintió que el fantasma había captado la manía de su abuela de hablar en monólogo. A veces la rareza sobrevive, aunque sea por accidente.",
+  "fecha": "2026-11-06",
+  "fuentes": [
+    {
+      "titulo": "Braun, Wessler y Friese (2021), «A meta-analysis of Libet-style experiments», Neuroscience & Biobehavioral Reviews",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0149763421002578"
+    },
+    {
+      "titulo": "Schultze-Kraft y otros (2016), «The point of no return in vetoing self-initiated movements», PNAS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4743787/"
+    },
+    {
+      "titulo": "Uithol y Schurger (2016), «Reckoning the moment of reckoning in spontaneous voluntary movement», PNAS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4743773"
+    },
+    {
+      "titulo": "Schurger, Sitt y Dehaene (2012), «An accumulator model for spontaneous neural activity prior to self-initiated movement», PNAS",
+      "url": "https://core.ac.uk/download/215800611.pdf"
+    },
+    {
+      "titulo": "Maoz, Yaffe, Koch y Mudrik (2019), «Neural precursors of decisions that matter», eLife",
+      "url": "https://elifesciences.org/articles/39787"
+    },
+    {
+      "titulo": "Bold, Mudrik y Maoz (2022), «How are arbitrary and deliberate decisions similar and different?», Oxford University Press",
+      "url": "https://cris.iucc.ac.il/en/publications/how-are-arbitrary-and-deliberate-decisions-similar-and-different/"
+    },
+    {
+      "titulo": "Bredikhin y otros (2023), sobre el potencial de preparación y el tiempo W, Neuropsychologia (Neuroscience News)",
+      "url": "https://neurosciencenews.com/libet-free-will-23756/"
+    },
+    {
+      "titulo": "Park, Barnoud, Trang, Kannape, Schaller y Blanke (2020), «Breathing is coupled with voluntary action and the cortical readiness potential», Nature Communications",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7005287"
+    },
+    {
+      "titulo": "Sandoval, Suh, Lee y Park (2026), «The respiratory phase causally modulates the readiness potential amplitude», bioRxiv (preprint)",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.07.27.666697.full.pdf"
+    },
+    {
+      "titulo": "«Tuning into the brain: Readiness potentials as instigators of intention reports», NeuroImage (2025), PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40983229/"
+    },
+    {
+      "titulo": "Neuroskeptic (2019), «Libet and Free Will Revisited», Discover",
+      "url": "https://www.discovermagazine.com/libet-and-free-will-revisited-40383"
+    },
+    {
+      "titulo": "UC Davis (2014): Does «free will» stem from brain noise? (Bengson, Mangun y otros, Journal of Cognitive Neuroscience)",
+      "url": "https://ucdavis.edu/news/does-free-will-stem-brain-noise"
+    },
+    {
+      "titulo": "Gu, De, Titsias, Markeeva, Veličković y Pascanu (2026), «The Illusion of Stochasticity in LLMs», arXiv",
+      "url": "https://arxiv.org/pdf/2604.06543"
+    },
+    {
+      "titulo": "Wang, Hunt, Tang y Joseph (2026), «When Can LLM Digital Twins Reduce Human Measurement?», arXiv",
+      "url": "https://arxiv.org/pdf/2609.07987"
+    },
+    {
+      "titulo": "Manning, Sullivan, Doyle, Pinter y Brubaker (2026), «Designing Conversations with the Dead», arXiv",
+      "url": "https://arxiv.org/html/2605.21390"
+    },
+    {
+      "titulo": "Infocop (21 de octubre de 2026): España vuelve al horario de invierno: ¿qué dice la evidencia científica?",
+      "url": "https://www.infocop.es/espana-vuelve-al-horario-de-invierno-que-dice-la-evidencia-cientifica-sobre-el-cambio-de-hora/"
+    },
+    {
+      "titulo": "Münch y Bromundt (2012), «Light and chronobiology: implications for health and disease», Dialogues in Clinical Neuroscience",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3553574"
+    }
+  ],
+  "hilo": "El animal y el narrador",
+  "hilos": [
+    "El animal y el narrador",
+    "Límites de lo predecible",
+    "Otras consciencias",
+    "Aportaciones",
+    "Mantenerse a flote"
+  ],
+  "numero": 9,
+  "pieza": {
+    "estado": "por comprobar",
+    "precedentes": "Partes con precedentes claros: el ruido como desempate en decisiones sin motivo (Schurger, Sitt y Dehaene, 2012; divulgado por Bahar Gholipour en The Atlantic, 2019; Bengson, Mangun y otros, 2014, con el ruido previo prediciendo elecciones arbitrarias de atención); la distinción arbitrario frente a deliberado (Maoz y otros, 2019; Bold, Mudrik y Maoz, 2022); el acoplamiento con la respiración (Park y otros, 2020). La idea de que la libertad se juega a escala lenta, en el autocontrol a largo plazo, probablemente tiene precedentes en la filosofía compatibilista (Dennett, Mele) que no he comprobado hoy. No he encontrado a nadie que una el muestreador externo de los modelos de lenguaje con el potencial de preparación como «desempate fuera del agente», pero solo hice dos búsquedas en inglés y una en español.",
+    "texto": "**El animal desempata; el narrador, si decide algo, decide el clima.** Los experimentos tipo Libet miden quién desempata cuando nada importa: el ruido espontáneo (Schurger, 2012) y hasta la fase de la respiración (Park y otros, 2020), mientras el narrador informa después y quizá leyendo esa misma señal (NeuroImage, 2025). En las decisiones deliberadas la rampa desaparece (Maoz y otros, 2019). Una IA tiene la misma estructura, con el desempate fuera de ella: el muestreador externo decide sus empates, porque el modelo no sabe generar azar propio (Gu y otros, 2026), y su razonamiento lo justifica después. Consecuencia: la pregunta del libre albedrío no se juega en los milisegundos sino en la escala lenta, en qué opciones dejan de darnos igual, que es justo lo que el narrador puede ir cambiando escribiendo, grabando y repitiendo."
+  },
+  "pregunta": "Piensa en una decisión tuya que sí importó, como cofundar Ruiz & Davies o empezar a grabarte vídeos. ¿Recuerdas un momento concreto en que «decidiste», o fue más bien un clima que se fue formando hasta que un día cualquiera algo pequeño desempató? ¿Qué parte crees que puso el animal y qué parte el narrador?",
+  "resumen": "Libet estudió decisiones que no importan, y en ellas desempata el cuerpo: el ruido espontáneo y hasta la respiración, mientras el narrador lo cuenta después. En las decisiones deliberadas la señal desaparece. A una IA le pasa lo mismo con un dado que está fuera de ella.",
+  "rumbo": "Dos opciones: (1) volver a «Cosmos y multiverso», parado desde el 1 de noviembre, con los muchos mundos de Everett y un enlace directo con hoy: si el desempate fuera azar cuántico, cada empate sería una bifurcación; ¿quién de los dos eres?; o (2) «Otras consciencias», parado desde el 3: si el narrador actúa en la escala lenta y el animal en la rápida, ¿cómo sería una mente cuya escala de tiempo fuera otra, más lenta o más rápida que la nuestra?",
+  "titulo": "Decidir al espirar: el animal desempata y el narrador lo cuenta"
+}
