@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-07",
   "hilos": [
     {
-      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia: ¿qué hace que algo sea «yo»?",
+      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, y quién de tus ramas eres: ¿qué hace que algo sea «yo»?",
       "estado": "abierto",
       "nombre": "Identidad y copias",
-      "ultima": "2026-11-05"
+      "ultima": "2026-11-07"
     },
     {
-      "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire, la historia de una misma pregunta a lo largo de los siglos, y qué se hereda de una persona: los 80 años de la memoria viva, la santificación de los muertos y los fantasmas digitales.",
+      "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire, la historia de una misma pregunta a lo largo de los siglos, y qué se hereda de una persona: los 80 años de la memoria viva, la santificación de los muertos, los fantasmas digitales y lo que una rama hereda de otra.",
       "estado": "abierto",
       "nombre": "Lo que heredamos",
-      "ultima": "2026-11-05"
+      "ultima": "2026-11-07"
     },
     {
-      "descripcion": "Niveles de multiverso, muchos mundos, simulación, ajuste fino y por qué hay leyes; ¿es infinito el universo?, copias cósmicas y cerebros de Boltzmann.",
+      "descripcion": "Niveles de multiverso, muchos mundos, simulación, ajuste fino y por qué hay leyes; ¿es infinito el universo?, copias cósmicas y cerebros de Boltzmann; si las decisiones se parten entre ramas, el carácter como lo invariante entre ellas y si dos ramas pueden hablarse.",
       "estado": "abierto",
       "nombre": "Cosmos y multiverso",
-      "ultima": "2026-11-01"
+      "ultima": "2026-11-07"
     },
     {
       "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo; predecir una mente desde fuera y desde dentro, gemelos digitales y el límite de MacKay.",
@@ -26,28 +26,28 @@
       "ultima": "2026-11-06"
     },
     {
-      "descripcion": "Animales, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente.",
+      "descripcion": "Animales, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente; una IA en un ordenador cuántico como observador.",
       "estado": "abierto",
       "nombre": "Otras consciencias",
-      "ultima": "2026-11-06"
+      "ultima": "2026-11-07"
     },
     {
-      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, y Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, y el dado externo de una IA.",
+      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, el dado externo de una IA, y si ese ruido hereda azar cuántico.",
       "estado": "abierto",
       "nombre": "El animal y el narrador",
-      "ultima": "2026-11-06"
+      "ultima": "2026-11-07"
     },
     {
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-11-06"
+      "ultima": "2026-11-07"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-11-06"
+      "ultima": "2026-11-07"
     }
   ]
 }
