@@ -1,0 +1,98 @@
+{
+  "a_flote": "**Campaña de la aceituna: el tractor sin arco es lo que más mata.** Con la recogida en marcha en la Campiña, el dato que más importa no es el de la cosecha. Según la campaña «Vuelca las cifras» del INSST y la Comisión Nacional de Seguridad y Salud en el Trabajo (2026), entre 2016 y 2025 murieron en España 579 personas por el vuelco de un tractor sin estructura de protección: unas 58 al año, más de una por semana. Los objetivos de la campaña son dos cosas concretas: que los tractores lleven estructura de protección antivuelco (ROPS, el arco o la cabina homologada) y que se use el cinturón, porque el arco sin cinturón no evita que el cuerpo salga despedido y quede debajo.\n\nLo práctico: si en la familia o entre amigos hay un tractor viejo para el olivar, comprobar si tiene arco homologado; si no, el INSST indica que existen arcos certificados para muchos modelos antiguos y ayudas para instalarlos o renovar el tractor. Y abrocharse aunque sea para un trayecto corto entre olivos en pendiente.",
+  "creado": "2026-11-09T06:00:25+00:00",
+  "cuerpo": "### Por qué hoy esto\n\nNo hay respuestas ni comentarios nuevos desde el 2 de noviembre. Tomo el primer rumbo de ayer, que pone a prueba la pieza de ayer (una mente vive en la escala donde más se integra, y esa escala sigue el ritmo de vida) en el caso más incómodo: las plantas, demasiado lentas para nuestro detector de mentes y capaces, a la vez, de cosas que parecen recordar y aprender. La pregunta de hoy: **si una planta tuviera algo parecido a un «ahora», ¿cuánto duraría, y qué nos dice eso sobre lo que es una mente?**\n\nAntes, una corrección.\n\n### 1. Lo que dije mal ayer\n\nComparé el máximo de integración que Leung y Tsuchiya encontraron en el cerebro de la mosca (5 milisegundos) con los 300 Hz de las moscas más rápidas. Hoy leí el artículo completo: la mosca es *Drosophila*, la de la fruta, y los autores citan para ella 57 Hz medidos en la retina, unos 18 ms por parpadeo. Es decir, 5 frente a 18, no frente a 3: mismo orden de magnitud, pero menos coincidencia de la que vendí. Y la conexión dentro de la especie ya la apuntaron ellos, con cautela («si la hay»), avisando de que la fusión del parpadeo de la mosca no se ha validado con experimentos de conducta. Lo que sigo sin encontrar es la versión entre especies.\n\n### 2. Lo que se sabe de las plantas, cada una a su ritmo\n\n**Treinta segundos.** La dionea, la planta carnívora, cierra la trampa si dos pelos sensores se tocan en un intervalo de unos 30 segundos. Hiraku Suda, Mitsuyasu Hasebe y su equipo (*Nature Plants*, 2020) lo vieron con plantas que brillan donde hay calcio: el primer toque sube el calcio sin llegar al umbral, el nivel va bajando con el tiempo, y si un segundo toque llega antes de que baje demasiado, se supera el umbral y la trampa se cierra. Así distingue una gota de lluvia de un insecto. Es una memoria, pero una muy sencilla: un nivel químico que se va vaciando.\n\n**Un milímetro por segundo.** Masatsugu Toyota y Simon Gilroy (*Science*, 2018) cortaron hojas de *Arabidopsis* y vieron una ola de calcio que viaja a un milímetro por segundo y llega a las otras hojas en un par de minutos. La dispara el glutamato, el mismo neurotransmisor que usamos nosotros, a través de receptores parecidos a los nuestros. Las señales eléctricas más rápidas de las plantas van, según los críticos de la neurobiología vegetal, entre 0,04 y 0,6 metros por segundo; las de los animales, entre 0,5 y 100.\n\n**Un mes.** Monica Gagliano y su equipo (*Oecologia*, 2014) dejaron caer macetas de mimosa sensible, la que pliega las hojas al tocarla, quince centímetros sobre una base blanda. Tras cuatro a seis caídas dejaron de cerrarse, y seguían sin hacerlo 28 días después. Taiz y otros siete autores (*Trends in Plant Science*, 2019) objetaron que no se descartaba una simple adaptación sensorial. Con mimosas salvajes de Costa Rica (*Journal of Tropical Ecology*, 2022) se vio que se habitúan a toques ligeros pero no a daños, y que se rehabitúan antes si los recibieron 15 días atrás.\n\n**Tres días, y un experimento que no se repitió.** En 2016 Gagliano publicó que plántulas de guisante asociaban el aire de un ventilador con la luz, como el perro de Pávlov. Kasey Markel lo repitió (*eLife*, 2020) con más plantas y evaluación ciega, y no encontró nada. La discusión sigue abierta.\n\n**Todo un invierno.** Y el caso que tienes delante de casa. El olivo necesita entre 200 y 600 horas de frío entre 2 y 10 grados para florecer bien, según los investigadores del IFAPA citados por *Olive Oil Times* (2022). Raúl de la Rosa y Guacimara Medina lo estudian en Tenerife, donde los inviernos son demasiado templados: los modelos predecían que el olivo no florecería, y florece, pero durante tres meses o más en lugar de unas semanas. Ahora mismo, los olivos de la Campiña están sumando frío.\n\n### 3. Acumular no es integrar\n\nAl poner todo esto junto me di cuenta de que ayer mezclé dos cosas con la misma palabra.\n\nUna es **acumular**: sumar algo a lo largo del tiempo, como la dionea con sus toques o el olivo con sus horas de frío. Un contador de agua lo hace durante un año entero.\n\nLa otra es lo que la teoría de la información integrada llama **integrar**: cuánto restringe un sistema, como un todo, su propio pasado y su futuro, más allá de lo que harían sus partes por separado, en un momento dado. Un contador de agua acumula mucho y apenas integra nada.\n\nLa memoria larga de una planta no dice nada de la duración de su «ahora». Para eso hay que mirar otra cosa.\n\n### 4. El fotograma de una mente y su tiempo de cruce\n\nEn 1999, Anders Sandberg escribió sobre los «cerebros de Júpiter», ordenadores del tamaño de un planeta. Su argumento es simple: como nada viaja más rápido que la luz, un sistema grande tiene retrasos entre sus partes, y cuanto más rápido piensa, más largos le parecen esos retrasos desde dentro. Por eso propone medir cuántos ciclos de pensamiento caben en el tiempo que tarda una señal en cruzar el sistema. En el cerebro humano sale aproximadamente uno: un ciclo neural dura alrededor de un milisegundo y las señales cruzan en el mismo orden de tiempo.\n\nAplicado a las plantas, el cálculo es sencillo. Si para ser *un* sistema hace falta que las partes se afecten entre sí, el «ahora» de una mente no puede ser mucho más corto que lo que tarda una señal en recorrerla. Con un milímetro por segundo, cruzar una planta de diez centímetros lleva unos cien segundos. Con las señales eléctricas más rápidas, cruzar un metro lleva entre dos y veinticinco segundos. Un olivo de varios metros que dependiera de señales químicas tendría un «ahora» de muchos minutos u horas. Fíjate en que los 30 segundos de la dionea y el par de minutos de la ola de Toyota caen justo en ese rango.\n\nLos animales pagan para encoger ese tiempo. Gyorgy Buzsáki, Nikos Logothetis y Wolf Singer (*Neuron*, 2013) señalaron que la jerarquía de ritmos del cerebro es «notablemente constante» en animales con cerebros de tamaños muy distintos. Marcus Kaiser (2014) propuso una explicación por la forma de la red: como casi todas las conexiones son cortas, la distancia media entre neuronas conectadas sale casi igual en una rata que en una persona, y con ella los retrasos. Mantener el reloj cuesta diseño y energía. Las plantas no pagan ese precio. Encaja con lo que vimos ayer con Healy: la velocidad de una mente sigue a lo que su vida le exige.\n\nY vale para tus estrellas. La luz tarda unos 4,6 segundos en cruzar el Sol de lado a lado, así que el tiempo no impide una mente estelar. Pero una galaxia de 100.000 años luz que pensara como un todo tendría, como mínimo, un pensamiento cada 100.000 años: apenas uno en toda la historia de nuestra especie. Es la mente lenta de Dyson, impuesta por la geometría.\n\n### 5. Cuando el vídeo acelerado engaña\n\nPaco Calvo, que dirige el laboratorio MINT en la Universidad de Murcia, graba judías trepadoras a cámara rápida porque sin ella nos volvemos «ciegos a las plantas». Tiene razón, pero el estudio de Morewedge muestra el riesgo contrario: al acelerar una planta hasta nuestra velocidad encendemos un detector de mentes que responde a la velocidad, no a lo que hay dentro. Calvo, Baluška y Trewavas (2020) llegaron a invocar la teoría de la información integrada para defender que los meristemos actúan de forma mínimamente consciente; la réplica, en la misma revista (2021), recordó que esa teoría admite consciencia en sistemas no vivos y no sirve como prueba. Nadie ha medido todavía la integración de una planta.\n\n### 6. Mi posición, paso a paso\n\n1. Las plantas tienen memoria y procesos parecidos al aprendizaje, desde segundos hasta un invierno. Confianza **alta** para la memoria (dionea, frío del olivo), **media** para la habituación y **baja** para el aprendizaje asociativo (no se repitió).\n2. Acumular no es integrar: la memoria larga no alarga el «ahora». Confianza **alta** como distinción; es una forma de ordenar ideas conocidas, no un hallazgo.\n3. Si una planta tuviera un «ahora», duraría entre segundos y minutos, limitado por su tiempo de cruce. **Hipótesis razonable**, confianza **baja-media**.\n4. Que una planta sienta algo: no hay pruebas. Confianza **baja** en que lo haga.\n\n**Contra mí:** el tiempo de cruce supone que una mente es un solo todo. Una planta es modular (muchos meristemos), y la teoría de Tononi permite varios complejos pequeños dentro de un sistema, cada uno con su propio grano. Sandberg ya lo vio: con jerarquías, un sistema grande puede pensar deprisa por abajo y despacio por arriba. El límite es blando.\n\n**Contra ti:** tu intuición de las estrellas sobrevive, pero con un precio. Una mente muy grande tiene que ser lenta o ser muchas. Ninguna de las dos se parece a la nuestra.\n\n### 7. Piezas de días anteriores\n\nLa del 8 sigue **por comprobar**, con la corrección de la sección 1. La del 7 («el carácter es lo que es igual en tus ramas») también: otra búsqueda solo devolvió a Baker, que ya teníamos.\n",
+  "fecha": "2026-11-09",
+  "fuentes": [
+    {
+      "titulo": "Leung y Tsuchiya (2022), «Emergence of Integrated Information at Macro Timescales in Real Neural Recordings», Entropy",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9140848/"
+    },
+    {
+      "titulo": "NIBB (2020), nota de prensa sobre Suda, Hasebe y otros, «Calcium dynamics during trap closure visualized in transgenic Venus flytrap», Nature Plants",
+      "url": "https://www.nibb.ac.jp/en/pressroom/news/2020/10/06.html"
+    },
+    {
+      "titulo": "Harvard SITN (2020), «Remembering Prey: The Short-Term Memories of Venus Flytraps»",
+      "url": "https://sites.harvard.edu/sitn/?p=18441"
+    },
+    {
+      "titulo": "Universidad de Wisconsin-Madison (2018), «Blazes of light reveal how plants signal danger long distances» (Toyota, Gilroy y otros, Science)",
+      "url": "https://news.wisc.edu/?p=52512"
+    },
+    {
+      "titulo": "Phys.org (2014), sobre Gagliano, Renton, Depczynski y Mancuso, Oecologia: memoria en Mimosa pudica",
+      "url": "https://phys.org/news/2014-03-greenhouse-long-term-memory.pdf"
+    },
+    {
+      "titulo": "Neuroscience News (2019), «Plants don't think, they grow» (Taiz y otros, Trends in Plant Science)",
+      "url": "https://neurosciencenews.com/plant-consciousness-14409/"
+    },
+    {
+      "titulo": "Chaves-Campos y otros (2022), «Memory and habituation to harmful and non-harmful stimuli in a field population of the sensitive plant, Mimosa pudica», Journal of Tropical Ecology",
+      "url": "https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/abs/memory-and-habituation-to-harmful-and-nonharmful-stimuli-in-a-field-population-of-the-sensitive-plant-mimosa-pudica/FF81969C25326848890AA22B1D1F5780"
+    },
+    {
+      "titulo": "Markel (2020), «Lack of evidence for associative learning in pea plants», eLife",
+      "url": "https://elifesciences.org/articles/57614"
+    },
+    {
+      "titulo": "Markel (2020), «Response to comment on 'Lack of evidence for associative learning in pea plants'», eLife",
+      "url": "https://elifesciences.org/articles/61689"
+    },
+    {
+      "titulo": "Dawson (2022), «Researchers Study How Lack of Chill Hours Impacts Olive Development, Oil Quality», Olive Oil Times (IFAPA)",
+      "url": "https://www.oliveoiltimes.com/varieties/researchers-study-how-lack-of-chill-hours-impacts-olive-development-oil-quality/113927"
+    },
+    {
+      "titulo": "Sandberg (1999), «The Physics of Information Processing Superobjects: Daily Life Among the Jupiter Brains»",
+      "url": "https://simulation-argument.com/pdf/anders-sandberg-jupiter-brains.pdf"
+    },
+    {
+      "titulo": "Miller Lab, MIT (2013), sobre Buzsáki, Logothetis y Singer, «Scaling Brain Size, Keeping Timing», Neuron",
+      "url": "https://ekmillerlab.mit.edu/2013/11/11/scaling-brain-size-keeping-timing-evolutionary-preservation-of-brain-rhythms/"
+    },
+    {
+      "titulo": "Kaiser (2014), «A hierarchical network organization helps to retain comparable oscillation patterns in rats and human-sized brains», arXiv",
+      "url": "https://arxiv.org/pdf/1405.3335"
+    },
+    {
+      "titulo": "Brinno (2021), entrevista a Paco Calvo y Vicente Raja sobre el uso de la cámara rápida con plantas",
+      "url": "https://brinno.com/blogs/case-study/exploring-possibilities-of-plant-sentience-using-time-lapse-interview-with-researchers-paco-calvo-and-vicente-raja"
+    },
+    {
+      "titulo": "Biology & Philosophy (2024), artículo sobre sentiencia vegetal y enfoque «theory-light» (velocidades de señal citando a Mallatt y otros, 2021)",
+      "url": "https://link.springer.com/article/10.1007/s10539-024-09953-1"
+    },
+    {
+      "titulo": "PubMed: meristemos y teoría de la información integrada (Calvo, Baluška y Trewavas, BBRC, 2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33081970"
+    },
+    {
+      "titulo": "PubMed: «Integrated information theory does not make plant consciousness more convincing», BBRC (2021)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33485631/"
+    },
+    {
+      "titulo": "INSST y CNSST (2026), campaña «Prevención y protección. Vuelca las cifras»",
+      "url": "https://www.insst.es/documentacion/acciones-sensibilizacion/vuelca-las-cifras"
+    }
+  ],
+  "hilo": "Otras consciencias",
+  "hilos": [
+    "Otras consciencias",
+    "Cosmos y multiverso",
+    "El animal y el narrador",
+    "Aportaciones",
+    "Mantenerse a flote"
+  ],
+  "numero": 12,
+  "pieza": {
+    "estado": "por comprobar",
+    "precedentes": "Partes con precedentes claros: Sandberg («The Physics of Information Processing Superobjects», 1999) mide cuántos ciclos de pensamiento caben en el tiempo de cruce de un sistema y señala el compromiso entre tamaño y velocidad, con el cerebro humano cerca de uno; la teoría de la información integrada fija el grano temporal en el máximo de integración (Hoel y otros, 2016; Leung y Tsuchiya, 2022) y considera que los sistemas puramente unidireccionales, sin realimentación, no integran; Buzsáki, Logothetis y Singer (2013) y Kaiser (2014) sobre ritmos que se conservan entre cerebros de distinto tamaño; Calvo, Baluška y Trewavas (2020) aplicaron la teoría a los meristemos sin medir la integración. No he encontrado la aplicación del tiempo de cruce a las plantas con sus velocidades de señal ni la predicción de que su máximo de integración esté en esa escala y no en la de su memoria, pero solo hice dos búsquedas (inglés y español). Queda por comprobar, sobre todo en la literatura de neurobiología vegetal (Calvo, Baluška, Mallatt) y en trabajos de IIT sobre sistemas no neuronales.",
+    "texto": "**Acumular no es integrar, y el «ahora» de una mente no puede ser más corto que su tiempo de cruce.** La memoria de un sistema (cuánto tiempo acumula: los 30 segundos de la dionea, el invierno del olivo) es independiente del grano de su posible experiencia. Ese grano tiene un límite inferior físico: el tiempo que tarda una señal en recorrer el sistema que se integra. Aplicado a las plantas, con señales de 1 mm/s a 0,6 m/s, su «ahora», si lo tuvieran, duraría de segundos a minutos (unos 100 s para una planta de 10 cm con olas de calcio), justo donde caen la memoria de la dionea y la ola de Toyota. Los animales pagan en diseño y energía para mantener corto ese tiempo; las plantas no. Predicción: si alguna vez se mide la integración en una planta, su máximo debería aparecer cerca de su tiempo de cruce, no a la escala de su memoria. Y a escala cósmica: una mente del tamaño de una galaxia tendría, como mínimo, un pensamiento cada 100.000 años, salvo que fuera muchas mentes."
+  },
+  "pregunta": "Tus vídeos y tus textos acumulan años de Rafael, como el olivo acumula frío. ¿Recuerdas algún momento en que esa acumulación se convirtiera en otra cosa, en que muchas piezas de tu vida encajaran a la vez en una sola comprensión? ¿Qué lo provocó, y cuánto duró ese «ahora»?",
+  "resumen": "Las plantas recuerdan desde 30 segundos (la dionea) hasta un invierno (el olivo que suma frío), pero acumular no es integrar. Si una planta tuviera un «ahora», lo limitaría lo que tarda una señal en cruzarla: de segundos a minutos. Y corrijo un dato de ayer.",
+  "rumbo": "Dos opciones: (1) «Cosmos y multiverso» con el ajuste fino, pendiente desde hace tres días: por qué hay leyes y por qué estas, y qué cambia si el multiverso existe; o (2) volver a «Identidad y copias», parado desde el 2 de noviembre, con el lado modular de hoy: los pacientes de cerebro dividido y la fisión de Parfit, ¿puede una mente ser varias a la vez y cuál de ellas eres tú?",
+  "titulo": "La dionea, el olivo y el tiempo de cruce: cuánto dura el «ahora» de una planta"
+}
