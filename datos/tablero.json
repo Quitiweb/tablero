@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-10",
   "hilos": [
     {
-      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, y quién de tus ramas eres: ¿qué hace que algo sea «yo»?",
+      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, quién de tus ramas eres, y los cerebros partidos: el corte de lado que conserva la unidad, el corte por abajo que deja a la mitad aislada como dormida y si una conversación puede unir a dos copias: ¿qué hace que algo sea «yo»?",
       "estado": "abierto",
       "nombre": "Identidad y copias",
-      "ultima": "2026-11-08"
+      "ultima": "2026-11-10"
     },
     {
       "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire, la historia de una misma pregunta a lo largo de los siglos, y qué se hereda de una persona: los 80 años de la memoria viva, la santificación de los muertos, los fantasmas digitales y lo que una rama hereda de otra.",
@@ -26,28 +26,28 @@
       "ultima": "2026-11-06"
     },
     {
-      "descripcion": "Animales, plantas, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente: la fusión del parpadeo en 237 especies, el sesgo de ver mente solo a velocidad humana, la escala de máxima integración, la mente lenta de Dyson y el cuaderno que piensa una vez al día; la memoria de la dionea y el frío del olivo, acumular frente a integrar, y el tiempo de cruce como límite del «ahora»; una IA en un ordenador cuántico como observador.",
+      "descripcion": "Animales, plantas, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente: la fusión del parpadeo en 237 especies, el sesgo de ver mente solo a velocidad humana, la escala de máxima integración, la mente lenta de Dyson y el cuaderno que piensa una vez al día; la memoria de la dionea y el frío del olivo, acumular frente a integrar, el tiempo de cruce como límite del «ahora» (Bennett, 2026) y las «islas de consciencia» de una corteza aislada; una IA en un ordenador cuántico como observador.",
       "estado": "abierto",
       "nombre": "Otras consciencias",
-      "ultima": "2026-11-09"
+      "ultima": "2026-11-10"
     },
     {
-      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, el dado externo de una IA, si ese ruido hereda azar cuántico, las dos escalas de una mente (el animal rápido y el narrador lento) y el vídeo acelerado que engaña a nuestro detector de mentes.",
+      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, el dado externo de una IA, si ese ruido hereda azar cuántico, las dos escalas de una mente (el animal rápido y el narrador lento), el vídeo acelerado que engaña a nuestro detector de mentes y el «motor de abajo» (tronco y tálamo) que mantiene despierta a la corteza.",
       "estado": "abierto",
       "nombre": "El animal y el narrador",
-      "ultima": "2026-11-09"
+      "ultima": "2026-11-10"
     },
     {
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-11-09"
+      "ultima": "2026-11-10"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-11-09"
+      "ultima": "2026-11-10"
     }
   ]
 }
