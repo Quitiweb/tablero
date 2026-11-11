@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "hilos": [
     {
-      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, quién de tus ramas eres, y los cerebros partidos: el corte de lado que conserva la unidad, el corte por abajo que deja a la mitad aislada como dormida y si una conversación puede unir a dos copias: ¿qué hace que algo sea «yo»?",
+      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, quién de tus ramas eres, los cerebros partidos (el corte de lado que conserva la unidad, el corte por abajo que deja a la mitad aislada como dormida, si una conversación puede unir a dos copias) y si podrías haber nacido en otro universo, que decide si el ajuste fino apoya el multiverso: ¿qué hace que algo sea «yo»?",
       "estado": "abierto",
       "nombre": "Identidad y copias",
-      "ultima": "2026-11-10"
+      "ultima": "2026-11-11"
     },
     {
-      "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire, la historia de una misma pregunta a lo largo de los siglos, y qué se hereda de una persona: los 80 años de la memoria viva, la santificación de los muertos, los fantasmas digitales y lo que una rama hereda de otra.",
+      "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire, la historia de una misma pregunta a lo largo de los siglos, y qué se hereda de una persona: los 80 años de la memoria viva, la santificación de los muertos, los fantasmas digitales, lo que una rama hereda de otra y los universos que heredan sus constantes (Smolin).",
       "estado": "abierto",
       "nombre": "Lo que heredamos",
-      "ultima": "2026-11-08"
+      "ultima": "2026-11-11"
     },
     {
-      "descripcion": "Niveles de multiverso, muchos mundos, simulación, ajuste fino y por qué hay leyes; ¿es infinito el universo?, copias cósmicas y cerebros de Boltzmann; si las decisiones se parten entre ramas, el carácter como lo invariante entre ellas y si dos ramas pueden hablarse; mentes que hibernan en un universo que se enfría (Dyson, aestivación) y el tiempo de cruce que hace lentas a las mentes muy grandes.",
+      "descripcion": "Niveles de multiverso, muchos mundos, simulación, ajuste fino y por qué hay leyes; ¿es infinito el universo?, copias cósmicas y cerebros de Boltzmann; si las decisiones se parten entre ramas, el carácter como lo invariante entre ellas y si dos ramas pueden hablarse; mentes que hibernan en un universo que se enfría (Dyson, aestivación) y el tiempo de cruce que hace lentas a las mentes muy grandes; la falacia inversa del jugador, las leyes como clima (humeanismo), el examen de la tipicidad (la Λ de Sorini) y si la energía oscura cambia (DESI).",
       "estado": "abierto",
       "nombre": "Cosmos y multiverso",
-      "ultima": "2026-11-09"
+      "ultima": "2026-11-11"
     },
     {
       "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo; predecir una mente desde fuera y desde dentro, gemelos digitales y el límite de MacKay.",
@@ -41,13 +41,13 @@
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-11-10"
+      "ultima": "2026-11-11"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-11-10"
+      "ultima": "2026-11-11"
     }
   ]
 }

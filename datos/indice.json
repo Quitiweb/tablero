@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-11",
+      "numero": 14,
+      "titulo": "El premio y el examen: lo que cuesta que el multiverso explique tu universo",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-10",
       "numero": 13,
       "titulo": "Despierto por abajo, uno por el lado: lo que enseñan los cerebros partidos",
