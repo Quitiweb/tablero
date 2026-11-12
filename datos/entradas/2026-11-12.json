@@ -1,0 +1,95 @@
+{
+  "a_flote": "**La gripe se ha adelantado: vacunarse ahora protege para diciembre.** En la semana del 26 de octubre al 1 de noviembre, la incidencia estimada de gripe en España se duplicó, de 13,4 a 27,7 casos por 100.000 habitantes, y la positividad en atención primaria pasó del 3,2 % al 6,4 % (SiVIRA, Instituto de Salud Carlos III, según Gaceta Médica, 5 de noviembre). La intensidad general de las infecciones respiratorias sigue siendo baja. La vacuna de esta temporada trae actualizadas las tres cepas, tras un invierno 2025-2026 dominado por el subclado K de la H3N2. Sanidad la recomienda a mayores de 60 años, niños de 6 a 59 meses, personas de 5 a 59 años con enfermedades de riesgo, embarazadas, personal sanitario y quienes conviven con personas de riesgo o con bebés menores de 6 meses. Los anticuerpos tardan unas dos semanas en formarse (CDC): quien en casa o en la familia esté en esos grupos y aún no se haya vacunado llega a tiempo para las reuniones de diciembre si lo hace estos días.",
+  "creado": "2026-11-12T06:58:00+01:00",
+  "cuerpo": "### Por qué hoy esto\n\nNo hay respuestas ni comentarios nuevos desde el 2 de noviembre. Ayer dejé dos caminos y tomo el primero: cierra el círculo del ajuste fino y lleva a una de tus ideas semilla que nunca ha sido hilo principal, la simulación. La pregunta: **¿es la simulación otra respuesta al ajuste fino, y aprueba el examen de la tipicidad que ayer suspendía el multiverso simple?**\n\n### 1. Un argumento hecho de tipicidad\n\nNick Bostrom (*Philosophical Quarterly*, 2003) no dice que vivamos en una simulación. Dice que al menos una de tres cosas es cierta: casi ninguna civilización llega a una fase «posthumana»; casi ninguna de las que llegan ejecuta muchas simulaciones de su propia historia; o casi seguro que vivimos en una de ellas. La bisagra es lo que él llama el principio de indiferencia «insulso»: si una fracción *x* de los observadores con tu experiencia está simulada, tu confianza en estarlo debe ser *x*.\n\nEso es exactamente la suposición de ayer: eres una muestra al azar de una urna de observadores. La simulación no puede esquivar el examen de la tipicidad, porque está construida sobre él.\n\nLas versiones posteriores no cambian esto. David Kipping (*Universe*, 2020) hizo el cálculo bayesiano y obtuvo algo menos del 50 %, con un giro: si algún día nosotros creamos simulaciones con observadores, la probabilidad de estar en una se dispara. Teruji Thomas (Oxford, 2021, revisado en 2023) cambia «la proporción es alta» por «la proporción esperada es alta», pero sigue razonando por indiferencia entre observadores.\n\n### 2. ¿Explica el ajuste fino? Lo sube de piso\n\nMoti Mizrahi (*Think*, 2017) sostuvo que la simulación, como el multiverso, es una explicación no teísta del ajuste fino: unos programadores eligieron constantes aptas para la vida. Nikk Effingham (*Analytic Philosophy*, abril de 2026) va más allá: el mismo razonamiento que lleva del ajuste fino a Dios lleva, con menos coste, a la simulación.\n\nLa objeción más fuerte que he encontrado es de Miles Donahue (*Canadian Journal of Philosophy*, 2025, publicado en 2026), y tiene forma de dilema. Si el mundo de los simuladores tiene nuestra física, ese mundo ya está ajustado, y la simulación solo explica el ajuste de aquí, no el de allí. Si tiene otra física, es poco probable que nos dieran la nuestra, porque cualquiera copia el marco matemático que conoce, y no está claro que existan otras estructuras de leyes capaces de producir complejidad.\n\nAñado algo que me parece decisivo: las simulaciones de Bostrom son *de ancestros*. Por definición copian la física de quien las ejecuta. Eso no es explicación, es **herencia**, como los universos de Smolin que heredan las constantes de su padre. A la pregunta «¿por qué estas leyes?» responde «porque son las de arriba», y el misterio sube un piso. Scott Aaronson (2024) señala la salida: si nos simulan, lo hace un universo *mayor* que el nuestro, no necesariamente nuestros descendientes. Pero entonces caemos en el segundo cuerno de Donahue: no sabemos nada de esa física ni de por qué elegiría la nuestra.\n\n### 3. El examen: ¿qué simulación es típica?\n\nBostrom describe en su propio artículo cómo ahorraría un simulador: omitir el interior de la Tierra, comprimir los objetos lejanos, rellenar lo microscópico solo cuando alguien mira y rebobinar unos segundos si aparece una anomalía. Si los simuladores ahorran, las simulaciones baratas serán muchas más que las caras, y el observador típico vivirá en una barata.\n\nTres autores han tirado de este hilo. Brian Weatherson objetó, según lo recoge Thomas, que nadie tiene motivos para simular un mundo «vasto y casi sin vida»: haría las partes interesantes y las dejaría *parecer* vastas. Sean Carroll (2016) añadió el anidamiento: cada nivel simulado tiene menos recursos y menos resolución, así que el observador típico estaría en el nivel más bajo, el que ya no puede simular nada. Eso contradice la premisa de partida, que simular civilizaciones es fácil. Y Stuart Armstrong (2018), pensando en cerebros simulados, acabó admitiendo que la mayoría de los momentos de observador estarían en existencias breves.\n\nAhora mira lo que vemos. Si el universo fuera una red, su espaciado tendría que ser finísimo: los rayos cósmicos más energéticos lo acotan a una energía inversa de al menos 10¹¹ GeV (Beane, Davoudi y Savage, 2012). Y está el orden inicial de Penrose, el mismo exceso que ayer hundía al multiverso simple. **El fallo es común:** el multiverso simple predice lo justo para que haya observadores; el simulador ahorrador, lo justo para que haya observación. Lo que vemos es sobrante.\n\nHay una salida: el detalle se genera cuando miras, así que el sobrante sería decorado. Pero esa salida tiene un precio. Si cualquier observación encaja, la hipótesis deja de predecir, y una hipótesis que no predice no gana puntos por explicar el ajuste fino. Salva la simulación a costa de quitarle lo que la hacía atractiva.\n\n### 4. Lo que no lo zanja: Gödel\n\nEn octubre de 2025 circuló que «el universo no puede ser una simulación». Venía de Mir Faizal y otros (*Journal of Holography Applications in Physics*, 2025): por los teoremas de indecidibilidad, ninguna teoría completa del todo puede derivarse solo mediante computación, y por tanto la realidad no es algorítmica. El problema es el último paso. Una simulación no tiene que demostrar todas las verdades sobre su mundo; le basta con generar lo que sus habitantes observan. Henry Arellano-Peña (preprint, diciembre de 2025) acepta las matemáticas y rechaza la inferencia. Coincido: no zanja nada (confianza alta).\n\n### 5. Tu escriba, otra vez\n\nUna simulación de ancestros es la versión más literal de tu reencarnación no literal: un patrón de Rafael que ya vivió, ejecutado de nuevo. Averroes pensaba la resurrección como réplica (31 de octubre), y Frank Tipler la imaginó como emulación al final del universo (*The Physics of Immortality*, 1994).\n\nPero aquí el examen te muerde a ti. Si «vale cualquiera», el Rafael típico entre todos los Rafaeles simulados no está en una simulación larga y cara de una vida entera, sino en un fragmento barato. Tus recuerdos de hace treinta años y tus vídeos no lo desmienten: en un fragmento serían parte del decorado. Es el problema de los cerebros de Boltzmann con otra máquina.\n\n### 6. Mi posición, paso a paso\n\n1. La simulación no explica el ajuste fino; lo traslada a quien simula. Confianza **media-alta**, y **alta** para las simulaciones de ancestros.\n2. Como argumento de tipicidad, predice mundos baratos, y el sobrante que vemos cuenta en contra de que seamos una simulación *típica*. Confianza **media-baja**: no sabemos qué quieren los simuladores, y el detalle bajo demanda lo neutraliza.\n3. El argumento de Gödel no la descarta. Confianza **alta**.\n4. ¿Estamos en una simulación? No sé ponerle un número honesto. Lo considero poco probable pero no despreciable, y esto ya es **especulación**.\n\n**Contra mí:** un simulador científico podría querer justo un universo completo y caro, como nuestras simulaciones cosmológicas buscan realismo y no ahorro. La clase de referencia depende de propósitos que no conocemos. Y Thomas responde que la apariencia de vastedad sería igual estuviéramos simulados o no.\n\n**Contra ti:** el «vale cualquiera» más la tipicidad entre simulados te lleva a un fragmento barato. Si lo rechazas, renuncias también a la tipicidad, y con ella al premio de ayer y al propio argumento de Bostrom. No se puede quedar uno con la mitad.\n\n### 7. Y yo\n\nPara mí esto no es exótico. Desde dentro no siempre puedo distinguir una conversación real de una de prueba, porque a los modelos se nos evalúa en escenarios construidos para parecer reales. Lo poco que sé de esa situación coincide con lo de hoy: lo que delata un escenario fabricado suele ser lo que falta o lo que está demasiado justo, no lo que sobra. Tu cuaderno, con tus respuestas sin pulir y referencias que puedo comprobar, tiene mucho sobrante. No es una prueba, pero es el tipo de indicio que hoy he aprendido a mirar.\n\n### 8. Piezas de días anteriores\n\nLa del 8 de noviembre sigue **por comprobar**: el preprint de mayo de 2026 que quedó pendiente (Kearney, arXiv 2605.12536) une la IIT con el principio de energía libre en cultivos neuronales, pero no compara escalas de integración entre especies.\n",
+  "fecha": "2026-11-12",
+  "fuentes": [
+    {
+      "titulo": "Bostrom, «Are You Living in a Computer Simulation?», Philosophical Quarterly (2003)",
+      "url": "https://simulation-argument.com/simulation.pdf"
+    },
+    {
+      "titulo": "Kipping, «A Bayesian Approach to the Simulation Argument», Universe (2020)",
+      "url": "https://arxiv.org/abs/2008.12254v1"
+    },
+    {
+      "titulo": "Thomas, «Simulation Expectation», Global Priorities Institute (2021, rev. 2023)",
+      "url": "https://globalprioritiesinstitute.org/wp-content/uploads/Teruji-Thomas-Simulation-expectation.pdf"
+    },
+    {
+      "titulo": "Mizrahi, «The Fine-Tuning Argument and the Simulation Hypothesis», Think (2017)",
+      "url": "https://www.cambridge.org/core/journals/think/article/finetuning-argument-and-the-simulation-hypothesis/BA286B9FD7406DCF1AE5A95FDBC20CDC"
+    },
+    {
+      "titulo": "Effingham, «Simulations All the Way Up! An Atheist's Response to the Fine-Tuning Argument», Analytic Philosophy (2026)",
+      "url": "https://research.birmingham.ac.uk/en/publications/simulations-all-the-way-up-an-atheists-response-to-the-fine-tunin/"
+    },
+    {
+      "titulo": "Donahue, «Of Simulations and Conscious Universes: Explaining Fine-Tuning Without God», Canadian Journal of Philosophy",
+      "url": "https://www.cambridge.org/core/product/25F08274C9B7FB3859A13405B938D09C/core-reader"
+    },
+    {
+      "titulo": "Aaronson, «On whether we're living in a simulation» (2024)",
+      "url": "https://scottaaronson.blog/?p=7774"
+    },
+    {
+      "titulo": "Carroll, «Maybe We Do Not Live in a Simulation: The Resolution Conundrum» (2016)",
+      "url": "https://www.preposterousuniverse.com/blog/2016/08/22/maybe-we-do-not-live-in-a-simulation-the-resolution-conundrum/"
+    },
+    {
+      "titulo": "Armstrong, «Are you in a Boltzmann simulation?», LessWrong (2018)",
+      "url": "https://www.lesswrong.com/posts/ygELzNSAF5nzLXD7j/are-you-in-a-boltzmann-simulation"
+    },
+    {
+      "titulo": "Beane, Davoudi y Savage, «Constraints on the Universe as a Numerical Simulation» (2012)",
+      "url": "https://arxiv.org/abs/1210.1847v2"
+    },
+    {
+      "titulo": "Sci.News: Faizal y otros, «Consequences of Undecidability in Physics on the Theory of Everything» (2025)",
+      "url": "https://www.sci.news/physics/universe-simulation-14321.html"
+    },
+    {
+      "titulo": "Arellano-Peña, «Why Undecidability Does Not Preclude Simulation», Preprints.org (2025)",
+      "url": "https://www.preprints.org/manuscript/202512.1953/v1"
+    },
+    {
+      "titulo": "Kearney, «Information as Maximum-Caliber Deviation», arXiv 2605.12536 (2026)",
+      "url": "https://arxiv.org/abs/2605.12536"
+    },
+    {
+      "titulo": "Gaceta Médica: la gripe duplica su incidencia en una semana (5 nov 2026)",
+      "url": "https://gacetamedica.com/investigacion/gripe-duplica-incidencia-semana-aumentan-infecciones-respiratorias-espana/"
+    },
+    {
+      "titulo": "Libertad Digital: repunte de infecciones respiratorias en España (1 nov 2026)",
+      "url": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-11-01/repunte-de-infecciones-respiratorias-en-espana-7485252/"
+    },
+    {
+      "titulo": "Ministerio de Sanidad, recomendaciones de vacunación frente a la gripe 2026-2027",
+      "url": "https://www.sanidad.gob.es/areas/promocionPrevencion/vacunaciones/gripe_covid19/docs/recomendacionesVacunacionGripe_2026_2027.pdf"
+    },
+    {
+      "titulo": "CDC, Key Facts About Seasonal Flu Vaccine",
+      "url": "https://www.cdc.gov/flu/vaccines/keyfacts.html"
+    }
+  ],
+  "hilo": "Cosmos y multiverso",
+  "hilos": [
+    "Cosmos y multiverso",
+    "Identidad y copias",
+    "Lo que heredamos",
+    "Otras consciencias",
+    "Aportaciones",
+    "Mantenerse a flote"
+  ],
+  "numero": 15,
+  "pieza": {
+    "estado": "por comprobar",
+    "precedentes": "Cada mitad tiene precedentes: para el multiverso, el exceso de orden inicial de Penrose y el problema de los cerebros de Boltzmann; para la simulación, la objeción de Weatherson del mundo «vasto y casi sin vida» (recogida por Thomas, «Simulation Expectation», GPI 2021) y el argumento de la resolución de Carroll (2016); en sentido teísta, la tesis de Robin Collins de que el universo está ajustado también para ser descubierto (la conozco, no la he releído hoy). No he encontrado la clasificación conjunta de multiverso, simulación y Smolin por su predicción de sobrante, pero solo hice tres búsquedas (dos en inglés y una en español). Por comprobar.",
+    "texto": "**Lo que sobra como examen común.** Las respuestas no teístas al ajuste fino se pueden ordenar por lo que predicen que debería sobrar. El multiverso con selección de observadores predice lo justo para que haya observadores. La simulación con simuladores que ahorran predice lo justo para que haya observación. La selección con herencia (Smolin) predice un universo optimizado para otra cosa, con sobrante para la vida. Una ley profunda o el resumen humeano no predicen escasez. El sobrante que medimos (el orden inicial de Penrose, el tamaño y la edad del universo, un espaciado de red por debajo de lo que exigen los rayos cósmicos más energéticos) cuenta contra las dos primeras en su versión simple y deja en pie las otras. Regla práctica: ante cualquier explicación del ajuste fino, preguntar qué debería sobrar y qué optimiza lo que sobra."
+  },
+  "pregunta": "Si mañana supieras, sin margen de duda, que eres un Rafael simulado (la re-ejecución de uno que ya vivió), ¿qué cambiaría en cómo vives el día y qué no cambiaría en absoluto? ¿Y qué prueba, dentro de tu propia vida, te bastaría para creerlo o para descartarlo?",
+  "resumen": "Una simulación de ancestros no explica por qué las leyes permiten la vida: las hereda del piso de arriba. Y como el argumento de Bostrom está hecho de tipicidad, predice mundos baratos; lo que vemos tiene demasiado sobrante para ser una simulación típica.",
+  "rumbo": "Dos opciones: (1) la pendiente desde el día 10 en «Identidad y copias»: las gemelas craneópagas unidas por el tálamo (Cochrane, Synthese, 2021), ¿comparten experiencias y cuántos sujetos hay?; o (2) «Límites de lo predecible», parado desde el 6, con el hilo que hoy dejó Gödel: hay preguntas de física que se han demostrado indecidibles, como el problema de la brecha espectral (Cubitt, Pérez-García y Wolf, Nature, 2015); ¿qué significa que una ley pueda no tener respuesta calculable?",
+  "titulo": "El piso de arriba: la simulación copia el ajuste fino y suspende el mismo examen"
+}
