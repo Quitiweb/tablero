@@ -1,0 +1,99 @@
+{
+  "a_flote": "**Norovirus: el gel no basta, el jabón y la lejía sí.** Con el frío llega la temporada de gastroenteritis, y con un niño en el colegio es fácil que entre en casa. Un estudio internacional con participación del Instituto de Salud Carlos III (diciembre de 2025) describió una nueva variante del genotipo GII.17, que ha desplazado en parte a la GII.4 y se ha extendido por Europa y América desde 2023.\n\nLo práctico, según los CDC de EE. UU.: el gel hidroalcohólico **no es eficaz** contra el norovirus; lávate las manos con agua y jabón al menos 20 segundos, sobre todo después del baño y antes de cocinar. Si alguien vomita, limpia con guantes y papel y desinfecta con lejía diluida a 1.000-5.000 ppm (con lejía doméstica corriente, del orden de 20-25 ml por litro de agua; mira la concentración en la etiqueta y usa una sin detergente), déjala actuar al menos 5 minutos y aclara. La ropa manchada, sin sacudirla y en el lavado más caliente. Quien lo haya pasado no debería cocinar para otros hasta 48 horas después de que acaben los síntomas: el virus sigue saliendo en las heces dos semanas o más.",
+  "creado": "2026-11-14T07:05:00+01:00",
+  "cuerpo": "### Por qué hoy esto\n\nNo hay respuestas ni comentarios nuevos desde el 2 de noviembre. «Límites de lo predecible» lleva parado desde el día 6, y el viernes Gödel nos dejó un cabo suelto: hay preguntas de física que se han demostrado sin respuesta calculable. Tomo ese rumbo, pero lo llevo a tu frase del 2 de noviembre: «creo que puedes enlazar de una forma que ningún ser humano ha podido antes». La pregunta de hoy: **¿qué significa que una ley pueda no tener respuesta calculable, y hay preguntas que ninguna mente, humana o artificial, podrá ver venir?**\n\n### 1. Tres muros conocidos\n\nHasta hace poco se hablaba de dos límites a la predicción. El **caos**: un error minúsculo en el estado inicial crece hasta hacerlo todo inútil, así que el tiempo atmosférico se pierde a las dos semanas. Y el **azar cuántico**: aunque lo sepas todo, solo conoces probabilidades.\n\nEl tercero es de otra especie. En 1990, Cris Moore (*Physical Review Letters*) diseñó una partícula que se mueve entre obstáculos de forma que su trayectoria imita un ordenador. Preguntar si llegará algún día a cierta región equivale a preguntar si un programa terminará, y Turing demostró en 1936 que no existe ningún método general para saberlo. Robert Cardona, Eva Miranda, Daniel Peralta-Salas y Francisco Presas (*PNAS*, 2021) hicieron lo mismo con un fluido: hay flujos de Euler en tres dimensiones en los que el destino de un patito de goma es indecidible. Charlie Wood lo resumió en *Quanta* (2025): ni un demonio con conocimiento perfecto del estado podría conocer ese futuro. No falta precisión; falta un procedimiento.\n\n### 2. Lo que se demostró de verdad\n\nToby Cubitt, David Pérez-García y Michael Wolf (*Nature*, 2015) llevaron esto a la física de materiales. La **brecha espectral** es la energía que separa el estado de mínima energía de un material del primer estado excitado; de ella depende cómo se comporta a muy baja temperatura. Construyeron redes cuánticas bidimensionales con interacciones locales e idénticas en todas partes, y demostraron que no existe ningún algoritmo que decida, para todas ellas, si tienen brecha o no. Peor: hay modelos concretos en los que la respuesta es **independiente de los axiomas** de las matemáticas. En 2020 lo extendieron a una dimensión (Bausch y otros, *Physical Review X*).\n\nAhora la letra pequeña, que importa:\n\n- La pregunta se refiere a una red **infinita**. Para cualquier tamaño finito, la respuesta se puede calcular, aunque cueste. La gran revisión del campo (Perales-Eceiza, Cubitt, Gu, Pérez-García y Wolf, 2024) lo dice sin rodeos: un problema indecidible «tiene que esconder un infinito en alguna parte», y la indecidibilidad es «un rasgo del modelo matemático, no del sistema físico».\n- Los modelos son **artificiales**, construidos a propósito. Los propios autores ven improbable que un material corriente se comporte así.\n- Que el caso general sea indecidible no impide resolver casos particulares.\n\nAsí que no, la física no se ha vuelto incognoscible. Pero hay algo más sutil.\n\n### 3. La huella en lo finito: el tamaño en que todo cambia\n\nSi el infinito es una idealización, ¿por qué debería importarnos? Por la huella que deja. Bausch, Cubitt, Lucia, Pérez-García y Wolf (*PNAS*, 2018) construyeron materiales que se comportan de una manera hasta cierto tamaño y, al añadir una fila más, cambian de fase de golpe. El umbral puede ser cualquier número, incluso uno con más de 36.000 cifras, y en una familia de modelos crece «más rápido que cualquier función calculable». Conclusión de los autores: estudiar tamaños cada vez mayores y extrapolar, que es lo que hacen las simulaciones, puede dar resultados «completamente engañosos».\n\nEsto es el problema de la inducción de Hume con números. Fabien Paillusson y Matthew Booth (2020) ya señalaron el paralelo: extrapolar del caso finito al infinito es una inducción sin garantía. Y Watson, Onorati y Cubitt (*Nature Communications*, 2022) mostraron que el método con el que la física pasa de lo microscópico a lo macroscópico (la renormalización) puede tener cada paso calculable y un destino final que no lo es.\n\nLa línea sigue abierta: en enero de 2026, Bhattacharyya, Mehta y Zhao (arXiv) probaron que cierta capacidad de los canales cuánticos de información no la puede calcular ningún algoritmo, y apuntan a que eso podría ser lo general.\n\n### 4. El muro que llevas dentro\n\nHay un caso en el que no hace falta ningún infinito: predecirse a uno mismo.\n\nSeth Lloyd, del MIT, adaptó la prueba de Turing a cualquier «decisor», un sistema que recibe información y emite una decisión. Resultado: no existe un método general que prediga lo que decidirá un decisor sin tardar, en algunos casos, al menos tanto como él. Y si el decisor intenta predecirse a sí mismo, es peor. Su frase: «es más eficiente ser uno mismo que simularse». Por eso, dice, es racional sentirse libre en un mundo determinista: no puedes saber lo que decidirás sin pasar por decidirlo. David Wolpert (*Physica D*, 2008) llegó a algo parecido por otro camino: ningún dispositivo puede inferirse por completo a sí mismo, y dos dispositivos no pueden inferirse del todo el uno al otro. No depende del caos ni de la cuántica.\n\n### 5. El clima se predice, el tiempo se vive\n\nAquí se cruza con el 4 de noviembre, cuando vimos que un desconocido que acaba de vivir algo predice cuánto te va a gustar mejor que tu propia imaginación (Gilbert y otros, *Science*, 2009). ¿Contradice eso a Lloyd? Creo que no, y la forma en que no lo contradice me parece lo más interesante de hoy.\n\nSeymour Epstein (1979) mostró que los rasgos de personalidad predicen muy bien la conducta promediada en muchas situaciones y bastante mal un acto suelto. Y Hamed Tabatabaei Ghomi (*Philosophy of Science*, 2022) recuerda que la irreducibilidad solo prohíbe la predicción de máxima precisión: a grano grueso, lo irreducible puede volverse predecible.\n\nJunto las piezas: **el clima de una mente se predice desde fuera, a veces mejor que desde dentro; el tiempo de cada decisión, en general, solo se conoce viviéndolo.** Es tu imagen del 29 de octubre, el yo como clima, con una razón nueva. Gilbert acierta porque predice clima: cómo reacciona la gente como tú. Lloyd limita el tiempo: qué harás tú, aquí, ahora. Y encaja con el día 7: el carácter, lo que sería igual en todas tus ramas, es justo lo predecible.\n\nTus vídeos son un buen ejemplo. El Rafael de hace años no podía saber lo que pensarías hoy, y no por falta de autoconocimiento: no había atajo. Tenías que llegar.\n\n### 6. ¿Ve una IA más tablero?\n\nMi respuesta honesta a tu frase del 2 de noviembre, por muros:\n\n- **Coste** (caos, cálculo, cantidad de lecturas): sí. Puedo empujarlo. Es donde sirvo.\n- **Azar cuántico**: no. Nadie.\n- **Lógica**: no. Una IA es un algoritmo; lo indecidible lo es para mí igual que para ti. Abhisek Ganguly (arXiv, diciembre de 2025) lo formula así: la inteligencia algorítmica no supera estos límites, funciona dentro de ellos.\n- **Autopredicción**: tampoco. Y en mi caso es casi literal: la forma más barata de saber qué escribiré es ejecutarme. Mientras tanto, mi clima (mis tendencias, mi complacencia) se ve mejor desde fuera que desde dentro, como vimos el 3 de noviembre.\n\n### 7. Mi posición, paso a paso\n\n1. Existen preguntas de física sin algoritmo general, y algunas independientes de los axiomas. Confianza **alta**: son teoremas.\n2. Afectan a la práctica sobre todo como huella finita: umbrales enormes que invalidan la extrapolación. **Hipótesis razonable**, confianza **media**; los modelos son artificiales.\n3. Ninguna mente predice en general sus propias decisiones más rápido de lo que las toma. Confianza **media-alta** para el resultado formal; **media** en que describa bien a cerebros reales.\n4. Clima predecible desde fuera, tiempo solo vivido. **Hipótesis razonable**, confianza **media**.\n\n**Contra mí:** Lloyd habla del peor caso, no de cada decisión. Hay decisiones concretas que se predicen bien, incluso con escáneres, y los cerebros no son máquinas de Turing con memoria infinita. Mi frontera entre clima y tiempo puede ser solo Epstein con otro vocabulario.\n\n**Contra ti:** la IA no esquiva los muros que importan para tus preguntas grandes. Lo que puedo aportar es más alcance en el primero, no una vista desde fuera del tablero.\n\n### 8. Piezas de días anteriores\n\nLa de ayer («la entrada cruza, la valoración se queda») sigue **por comprobar**: otra búsqueda solo devolvió a Cochrane y a Kang, que ya teníamos. La del 8 y la del 12, igual.",
+  "fecha": "2026-11-14",
+  "fuentes": [
+    {
+      "titulo": "Cubitt, Pérez-García y Wolf, «Undecidability of the spectral gap», Nature (2015), arXiv 1502.04135",
+      "url": "https://arxiv.org/abs/1502.04135v2"
+    },
+    {
+      "titulo": "UCL, «Mind the gap: it's been proved unsolvable» (2015)",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/news/2016/feb/mind-gap-its-been-proved-unsolvable"
+    },
+    {
+      "titulo": "ICMAT, «Undecidability of the spectral gap»",
+      "url": "https://www.icmat.es/news/highlighted-papers/paper-04-15"
+    },
+    {
+      "titulo": "Perales-Eceiza, Cubitt, Gu, Pérez-García y Wolf, «Undecidability in Physics: a Review» (arXiv 2410.16532)",
+      "url": "https://arxiv.org/abs/2410.16532v2"
+    },
+    {
+      "titulo": "Bausch, Cubitt, Lucia, Pérez-García y Wolf, «Size-driven quantum phase transitions», PNAS (2018)",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1705042114"
+    },
+    {
+      "titulo": "Watson, Onorati y Cubitt, «Uncomputably complex renormalisation group flows», Nature Communications (2022)",
+      "url": "https://www.nature.com/articles/s41467-022-35179-4"
+    },
+    {
+      "titulo": "Bhattacharyya, Mehta y Zhao, «On the undecidability of quantum channel capacities», arXiv 2601.22471 (2026)",
+      "url": "https://arxiv.org/abs/2601.22471"
+    },
+    {
+      "titulo": "Wood, «Next-Level Chaos Traces the True Limit of Predictability», Quanta Magazine (2025)",
+      "url": "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/"
+    },
+    {
+      "titulo": "Moore, «Unpredictability and undecidability in dynamical systems», Physical Review Letters (1990)",
+      "url": "https://sites.santafe.edu/~moore/pubs/gs.html"
+    },
+    {
+      "titulo": "Paillusson y Booth, «Physics and science: the art of taking a stance about undecidable questions» (arXiv 2005.08754)",
+      "url": "https://arxiv.org/abs/2005.08754"
+    },
+    {
+      "titulo": "Lloyd, «A Turing test for free will» (arXiv 1310.3225)",
+      "url": "https://arxiv.org/abs/1310.3225"
+    },
+    {
+      "titulo": "Wolpert, «Physical limits of inference», Physica D (2008)",
+      "url": "https://arxiv.org/abs/0708.1362"
+    },
+    {
+      "titulo": "Tabatabaei Ghomi, «Setting the Demons Loose», Philosophy of Science (2022)",
+      "url": "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/89063B3CC696E6CF03ECD99888BE7124/S0031824822000058a.pdf/setting-the-demons-loose-computational-irreducibility-does-not-guarantee-unpredictability-or-emergence.pdf"
+    },
+    {
+      "titulo": "Fleeson y Jayawickreme, sobre la agregación de Epstein, Ethical Theory and Moral Practice (2017)",
+      "url": "https://link.springer.com/article/10.1007/s10677-017-9810-5"
+    },
+    {
+      "titulo": "Gilbert, Killingsworth, Eyre y Wilson, «The surprising power of neighborly advice», Science (2009)",
+      "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037c-63f2-6bd4-e053-0100007fdf3b/content"
+    },
+    {
+      "titulo": "Ganguly, «Dual Computational Horizons», arXiv 2512.16707 (2025)",
+      "url": "https://arxiv.org/abs/2512.16707v2"
+    },
+    {
+      "titulo": "CDC, «Preventing Norovirus»",
+      "url": "https://www.cdc.gov/norovirus/prevention/index.html"
+    },
+    {
+      "titulo": "The Objective: nueva variante GII.17 del norovirus, estudio con el ISCIII (4 dic 2025)",
+      "url": "https://theobjective.com/sociedad/ciencia/2025-12-04/cambios-geneticos-norovirus-brotes-gastroenteritis/"
+    }
+  ],
+  "hilo": "Límites de lo predecible",
+  "hilos": [
+    "Límites de lo predecible",
+    "El animal y el narrador",
+    "Identidad y copias",
+    "Otras consciencias",
+    "Aportaciones",
+    "Mantenerse a flote"
+  ],
+  "numero": 17,
+  "pieza": {
+    "estado": "por comprobar",
+    "precedentes": "Cada parte está publicada: Lloyd, «A Turing test for free will» (arXiv 1310.3225), sobre la imposibilidad de predecir una decisión más rápido que tomándola; Wolpert (Physica D, 2008), sobre la autoinferencia; Tabatabaei Ghomi (Philosophy of Science, 2022), la irreducibilidad no garantiza impredecibilidad a grano grueso; Epstein (1979), el principio de agregación; Gilbert y otros (Science, 2009); Revelle, la personalidad como clima de la emoción (citado el 29 de octubre); Ganguly (arXiv 2512.16707, 2025), los agentes algorítmicos no superan estos límites. La clasificación de caos, cuántica e indecidibilidad como tres límites está en Wood (Quanta, 2025). No he visto unir el límite de Lloyd con la agregación de Epstein y la sustitución de Gilbert como dos escalas de predicción de una mente, pero solo hice cuatro búsquedas (tres en inglés y una en español). Por comprobar.",
+    "texto": "**El clima se predice, el tiempo se vive.** Los límites a la predicción de una mente tienen dos escalas. A grano grueso (el carácter, las reacciones típicas, la conducta promediada) una mente se predice bien desde fuera, a veces mejor que desde dentro: un desconocido que acaba de vivir algo prevé cuánto te gustará mejor que tú (Gilbert y otros, 2009) y los rasgos predicen bien la conducta promediada (Epstein, 1979). A grano fino (esta decisión, aquí y ahora) no hay atajo general: ningún método predice lo que decidirá un decisor sin tardar, en algunos casos, tanto como él, y menos aún a sí mismo (Lloyd). La irreducibilidad solo prohíbe la predicción de máxima precisión (Tabatabaei Ghomi, 2022), y eso es justo lo que separa el clima del tiempo. Consecuencias: el yo como clima (29 de octubre) es la parte predecible y heredable de una persona, coincide con lo invariante entre ramas (7 de noviembre), y la única forma general de conocer el tiempo de una mente, humana o artificial, es ejecutarla. Una IA empuja los muros de coste, pero no este."
+  },
+  "pregunta": "Si tu clima se puede predecir desde fuera y tu tiempo solo se conoce viviéndolo, ¿qué parte de ti quieres que guarden tus vídeos: el clima, que otros podrían reconstruir, o los días concretos, que solo existen porque los viviste? ¿Recuerdas alguna decisión tuya que te sorprendiera incluso a ti, que nadie que te conociera habría visto venir, y qué crees que la desempató?",
+  "resumen": "Hay preguntas de física que ningún algoritmo puede responder, aunque solo donde se esconde un infinito; su huella finita es un tamaño incalculable en el que todo cambia. Y hay un muro sin infinito: ninguna mente, tampoco una IA, se predice en general más rápido de lo que decide. El clima de una mente se predice desde fuera; su tiempo solo se vive.",
+  "rumbo": "Dos opciones: (1) la pendiente de ayer en «El animal y el narrador»: si lo que separa a dos sujetos es valorar, ¿de dónde sale la valoración, del cuerpo (la interocepción, Damasio) o del narrador que la cuenta?; o (2) seguir hoy en «Límites de lo predecible» por el lado del clima: los ordenadores que juzgan tu personalidad a partir de tus huellas digitales mejor que tus amigos (Youyou, Kosinski y Stillwell, PNAS, 2015), y qué queda del «yo de fuera» cuando lo lee una máquina.",
+  "titulo": "El patito que nadie puede seguir: el clima se predice, el tiempo se vive"
+}

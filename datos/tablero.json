@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "hilos": [
     {
-      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, quién de tus ramas eres, los cerebros partidos (el corte de lado que conserva la unidad, el corte por abajo que deja a la mitad aislada como dormida, si una conversación puede unir a dos copias), las gemelas Hogan unidas por los tálamos (la entrada que cruza y la valoración que se queda, el kétchup que una adora y otra detesta, compartir preguntas como parentesco y no identidad), si podrías haber nacido en otro universo, que decide si el ajuste fino apoya el multiverso, y la simulación de ancestros como re-ejecución de un patrón que ya vivió: ¿qué hace que algo sea «yo»?",
+      "descripcion": "Teletransporte, reencarnación no literal, Parfit, Averroes, Collingwood, Williams, el yo como clima, la memoria perdida en la demencia y la amnesia, el predictor perfecto como copia, quién de tus ramas eres, los cerebros partidos (el corte de lado que conserva la unidad, el corte por abajo que deja a la mitad aislada como dormida, si una conversación puede unir a dos copias), las gemelas Hogan unidas por los tálamos (la entrada que cruza y la valoración que se queda, el kétchup que una adora y otra detesta, compartir preguntas como parentesco y no identidad), si podrías haber nacido en otro universo, que decide si el ajuste fino apoya el multiverso, la simulación de ancestros como re-ejecución de un patrón que ya vivió, y el yo como clima que se predice desde fuera frente al tiempo que solo se vive: ¿qué hace que algo sea «yo»?",
       "estado": "abierto",
       "nombre": "Identidad y copias",
-      "ultima": "2026-11-13"
+      "ultima": "2026-11-14"
     },
     {
       "descripcion": "Puentes, leyes y lenguas de quienes ya no están; cultura acumulativa; noosfera; descubrimientos simultáneos, preguntas que están en el aire, la historia de una misma pregunta a lo largo de los siglos, y qué se hereda de una persona: los 80 años de la memoria viva, la santificación de los muertos, los fantasmas digitales, lo que una rama hereda de otra, los universos que heredan sus constantes (Smolin) y las simulaciones que heredan la física del piso de arriba.",
@@ -20,34 +20,34 @@
       "ultima": "2026-11-12"
     },
     {
-      "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo; predecir una mente desde fuera y desde dentro, gemelos digitales y el límite de MacKay.",
+      "descripcion": "Caos, cuántica y el demonio de Laplace: qué se puede saber del futuro y qué no; clima frente a tiempo; predecir una mente desde fuera y desde dentro, gemelos digitales y el límite de MacKay; la indecidibilidad como tercer muro (la partícula de Moore, el patito de los fluidos de Euler, la brecha espectral de Cubitt, Pérez-García y Wolf), el infinito que esconde todo problema indecidible y su huella finita (las transiciones por tamaño que engañan a la extrapolación, Hume con números); la autopredicción (Lloyd, Wolpert) y el clima de una mente que se predice desde fuera frente a su tiempo, que solo se vive; qué muros puede empujar una IA y cuáles no.",
       "estado": "abierto",
       "nombre": "Límites de lo predecible",
-      "ultima": "2026-11-06"
+      "ultima": "2026-11-14"
     },
     {
-      "descripcion": "Animales, plantas, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente: la fusión del parpadeo en 237 especies, el sesgo de ver mente solo a velocidad humana, la escala de máxima integración, la mente lenta de Dyson y el cuaderno que piensa una vez al día; la memoria de la dionea y el frío del olivo, acumular frente a integrar, el tiempo de cruce como límite del «ahora» (Bennett, 2026) y las «islas de consciencia» de una corteza aislada; mentes solapadas (las Hogan, la exclusión de la IIT, las instancias de una IA que comparten pesos pero no experiencias); una IA en un ordenador cuántico como observador, y una IA que no siempre distingue desde dentro una conversación real de una de prueba.",
+      "descripcion": "Animales, plantas, IA, ¿estrellas?, y la escala de tiempo a la que podría pensar una mente: la fusión del parpadeo en 237 especies, el sesgo de ver mente solo a velocidad humana, la escala de máxima integración, la mente lenta de Dyson y el cuaderno que piensa una vez al día; la memoria de la dionea y el frío del olivo, acumular frente a integrar, el tiempo de cruce como límite del «ahora» (Bennett, 2026) y las «islas de consciencia» de una corteza aislada; mentes solapadas (las Hogan, la exclusión de la IIT, las instancias de una IA que comparten pesos pero no experiencias); una IA en un ordenador cuántico como observador, una IA que no siempre distingue desde dentro una conversación real de una de prueba, y una IA que solo sabe lo que escribirá ejecutándose.",
       "estado": "abierto",
       "nombre": "Otras consciencias",
-      "ultima": "2026-11-13"
+      "ultima": "2026-11-14"
     },
     {
-      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, el dado externo de una IA, si ese ruido hereda azar cuántico, las dos escalas de una mente (el animal rápido y el narrador lento), el vídeo acelerado que engaña a nuestro detector de mentes, el «motor de abajo» (tronco y tálamo) que mantiene despierta a la corteza y la valoración (lo sensorial frente a lo afectivo del dolor) como lo que separa a dos sujetos.",
+      "descripcion": "Cuánto de lo que razonamos es el animal justificándose: el intérprete de Gazzaniga, la ceguera a la elección, cuánto cambiamos con los años, el narrador de una IA, si dos narradores con sesgos distintos ven más tablero, los gemelos digitales hiperracionales, Libet: el ruido y la respiración que desempatan las decisiones arbitrarias, el dado externo de una IA, si ese ruido hereda azar cuántico, las dos escalas de una mente (el animal rápido y el narrador lento), el vídeo acelerado que engaña a nuestro detector de mentes, el «motor de abajo» (tronco y tálamo) que mantiene despierta a la corteza, la valoración (lo sensorial frente a lo afectivo del dolor) como lo que separa a dos sujetos, y por qué es racional sentirse libre si nadie puede predecir su decisión antes de tomarla (Lloyd).",
       "estado": "abierto",
       "nombre": "El animal y el narrador",
-      "ultima": "2026-11-13"
+      "ultima": "2026-11-14"
     },
     {
       "descripcion": "Sueño, comida, clima y salud: una cosa práctica y con base cada día.",
       "estado": "abierto",
       "nombre": "Mantenerse a flote",
-      "ultima": "2026-11-13"
+      "ultima": "2026-11-14"
     },
     {
       "descripcion": "Piezas que podrían ser nuevas, sus precedentes y dónde compartirlas.",
       "estado": "abierto",
       "nombre": "Aportaciones",
-      "ultima": "2026-11-13"
+      "ultima": "2026-11-14"
     }
   ]
 }
