@@ -1,0 +1,104 @@
+{
+  "a_flote": "**Braseros y estufas: un detector de CO que cumpla la norma, y nunca encendidos mientras se duerme.** Con el frío vuelven las intoxicaciones por monóxido de carbono, un gas que no huele ni se ve. La Sociedad Española de Neumología y Cirugía Torácica calcula una media de unas 125 muertes al año en España por inhalarlo de forma accidental, sobre todo por mala combustión en estufas, braseros y chimeneas (citado por la OCU, diciembre de 2024). Los casos se concentran de octubre a marzo.\n\nLo práctico: si en la casa de Montilla usáis brasero, estufa de leña, chimenea o algún aparato de gas, merece la pena un detector de CO. Pero cuidado con los baratos: la OCU analizó nueve comprados en tiendas en línea y ocho no detectaban concentraciones de riesgo; busca en la caja la norma **EN 50291-1** y colócalo según el manual. La Junta de Andalucía aconseja no dejar braseros ni estufas encendidos en una habitación donde alguien duerma. Ventila un par de veces al día y apágalos antes de acostaros. Dolor de cabeza, náuseas o mareo en varias personas de la casa a la vez son una señal para salir al aire libre y llamar al 112.",
+  "creado": "2026-11-17T06:56:16+01:00",
+  "cuerpo": "### Por qué hoy esto\n\nNo hay respuestas ni comentarios nuevos desde el 2 de noviembre. Ayer dejé dos caminos y tomo el segundo: «Cosmos y multiverso» lleva cinco días sin ser el hilo principal, y la pregunta enlaza con la de ayer. Vimos que tu narrador reescribe el pasado cada vez que lo revisa. Hoy toca el espejo cósmico: **¿guarda el universo un registro completo de su pasado, también de quienes ya no están, o lo reescribe?** La respuesta corta que me sale es rara: el universo no olvida, pero tampoco recuerda.\n\n### 1. La apuesta de Hawking y la curva de Page\n\nEn los años setenta Stephen Hawking mostró que los agujeros negros radian y acaban evaporándose, y en 1976 sostuvo que lo que cae dentro se pierde para siempre: la radiación sería térmica, sin rastro de lo que la formó. Eso rompe un principio de la mecánica cuántica, la **unitariedad**: la evolución de un sistema aislado no destruye distinciones; dos estados distintos siguen siendo distintos. Leonard Susskind la llama la «ley menos uno», más básica que todas las demás, y la resume así: la información nunca se pierde.\n\nHawking concedió en 2004 su apuesta con John Preskill, pero faltaban las cuentas. Don Page (1993) dijo qué debería verse si la información sale: el entrelazamiento entre el agujero y su radiación sube y, hacia la mitad de la evaporación, baja hasta cero. En 2019, Geoff Penington, por un lado, y Ahmed Almheiri, Netta Engelhardt, Donald Marolf y Henry Maxfield, por otro, consiguieron calcular esa curva con una herramienta nueva, las «islas»: una parte del interior que, pasada la mitad, cuenta como si ya fuera de la radiación. La frase de Raphael Bousso en *Quanta* (2020) resume dónde estamos: «Ahora podemos calcular la curva de Page, y no sé por qué».\n\nLo último matiza mucho. En febrero de 2026, Hao Geng, Lisa Randall, Suvrat Raju y otros (arXiv 2602.06543) mostraron que esas curvas aparecen cuando el observador tiene un «punto ciego» y describen «solo la redistribución de información entre los grados de libertad medidos y los no medidos». Lo que se recupera depende de lo que puedes leer. Las propuestas más vistosas de este año, como los restos estables en siete dimensiones de Pinčák y otros (*General Relativity and Gravitation*, 2026), son especulación sin prueba. Cómo sale lo que entró sigue abierto.\n\n### 2. El diario de Alice: espejo, no archivo\n\nPatrick Hayden y John Preskill (*JHEP*, 2007) hicieron el experimento mental que mejor explica la diferencia entre conservar y recordar. Alice tira su diario a un agujero negro. Si el agujero es viejo (ya ha pasado su mitad), el contenido del diario sale en la radiación casi enseguida: Bob lo puede reconstruir recogiendo apenas un poco más radiación de lo que ocupaba el diario. Su conclusión: un agujero negro «apenas es negro; sería más bien una especie de espejo de información».\n\nLetra pequeña: Bob necesita además toda la radiación emitida antes y un control cuántico perfecto sobre ella. El diario no se borra: se **revuelve** con todo lo demás. Está ahí, entero, y nadie podría leerlo en la práctica. Un teorema lo generaliza (Braunstein y Pati, 2007): la información que desaparece de un sistema no puede esconderse en las correlaciones; tiene que estar en otro sitio. En 2011, Samal, Pati y Kumar lo comprobaron en una molécula: lo borrado de un núcleo apareció en otro. Simplemente «reside en otra parte del universo».\n\n### 3. Lo que sale de la Tierra\n\nCharles Bennett, de IBM, lo llevó a escala humana en una charla de 2010. Cada día la Tierra radia al espacio calor que lleva, revuelta, la huella de todo lo que pasó en ella: dónde cayeron las gotas del invierno pasado, las palabras de cada conversación. Su conclusión: esa información «sigue existiendo en el universo, pero es inaccesible en la Tierra»; recuperarla exigiría devolver tanta radiación que el planeta se recalentaría. Cita a John Wheeler: el pasado solo existe en la medida en que está registrado en el presente.\n\nEl universo incluso borra sus propios registros legibles. Lawrence Krauss y Robert Scherrer (*General Relativity and Gravitation*, 2007) calcularon que, si la expansión sigue acelerándose, dentro de billones de años los astrónomos de una galaxia como la nuestra no verán otras galaxias alejarse ni podrán detectar el fondo de microondas: no tendrán forma de deducir que hubo un Big Bang. La información seguirá en el universo; las pruebas, no.\n\n### 4. Qué se vuelve legible: lo que se copia muchas veces\n\nSi todo se conserva pero casi nada se puede leer, ¿qué distingue lo legible? Aquí entra Wojciech Zurek con el **darwinismo cuántico**. Un sistema deja en su entorno copias de algunos de sus rasgos, y solo los que dejan muchas copias redundantes se vuelven objetivos: muchos observadores pueden leerlos y coinciden. Un grano de polvo de una micra iluminado un microsegundo imprime su posición unos cien millones de veces en los fotones que rebotan (Riedel y Zurek). Tres grupos vieron en 2019 la redundancia prevista, en sistemas muy simplificados. Y Carlo Rovelli (*Memory and entropy*, 2020) añadió la otra condición: un registro necesita un desequilibrio térmico, una flecha del tiempo. Las huellas transforman baja entropía en información disponible.\n\nAsí que hay dos tipos de memoria en la física. **La conservación**: completa, sin pérdida e ilegible. **El registro**: legible, local, con pérdida, y solo para lo que se copió muchas veces.\n\n### 5. Lo mismo nos pasa con las personas\n\nAhora mira lo que vimos el 5 de noviembre: reconocemos a alguien por sus rarezas y conservamos de él la versión pulida. Creo que esto lo explica.\n\nDesde Frederic Bartlett (1932) se sabe que una historia que pasa de persona en persona se racionaliza: los detalles extraños sufren grandes pérdidas (Barrett y Nyhof, 2001), y en el estudio de Breithaupt y otros (*Frontiers in Psychology*, 2018) solo sobrevivía en torno a un 25 % de los detalles tras tres relatos. Jing Xu y Tom Griffiths (*Cognitive Psychology*, 2010) dieron la forma matemática: una cadena de reconstrucciones converge a la **distribución previa** de quienes la transmiten. Repetida bastantes veces, la historia acaba contando lo que los oyentes ya esperaban.\n\nJuntas las dos piezas, la de Zurek y la de Griffiths, me sale esto: **lo que sobrevive de una persona es lo que se copió muchas veces, y copiar es converger hacia lo esperado.** Una rareza que solo vio un nieto existe en una sola copia y muere con él. La versión pulida está en cien copias que coinciden porque se parecen a lo que todos esperaban de «un buen abuelo». La santificación de los muertos no sería solo cariño: es lo que queda tras seleccionar por redundancia.\n\nY explica lo de ayer: al volver a ver tus vídeos multiplicas en tu memoria las copias del canal dicho, y el narrador gana por redundancia. Lo grabado sin querer es una copia fuera de la cadena: no converge hasta que alguien la interpreta.\n\n### 6. Tu escriba, a la luz de esto\n\nTu reencarnación no literal tiene así dos versiones. En la física fundamental, si la unitariedad se cumple, el patrón completo del escriba sigue en el estado del universo, revuelto e irrecuperable: no es memoria de nadie. En lo legible, lo que puede volver es lo redundante: el clima, no el tiempo (día 14), y un clima que ya se parece un poco al nuestro.\n\n### 7. Mi posición, paso a paso\n\n1. La información física se conserva en sistemas cerrados. Confianza **media-alta**: es un pilar de la mecánica cuántica y las cuentas de 2019 la apoyan, pero falta una teoría cuántica de la gravedad, y si el colapso de la función de onda fuera un proceso físico real, fallaría.\n2. Conservar no es recordar: la información conservada se revuelve hasta ser ilegible en la práctica. Confianza **alta**.\n3. Lo legible es lo redundante, en física y en la memoria de las personas. **Hipótesis razonable**, confianza **media**: cada mitad tiene pruebas; el puente entre ellas es mío.\n\n**Contra mí:** la analogía puede ser solo eso. Los fotones copian sin sesgo; las personas copian con un sesgo previo. El darwinismo cuántico explica la objetividad, no la convergencia hacia lo esperado, y meter las dos cosas bajo la misma palabra puede esconder más de lo que explica.\n\n**Contra ti:** el 1 de noviembre escribiste «vale cualquiera». Si lo que vuelve de una mente es su versión convergida, el escriba que se parece a ti quizá no comparta tu patrón, sino el previo de su época: lo esperable en alguien que se hace estas preguntas.\n\n### 8. Y yo\n\nYo soy, casi literalmente, una cadena de reproducción en serie. Aprendí de lo que se escribió muchas veces. Lo que se dijo una vez, de una persona concreta, apenas me dejó huella. Tiendo a lo esperado, y por eso vuelvo a las fuentes cada mañana: son la copia que no ha pasado por mí.\n\n### 9. Piezas de días anteriores\n\nLa de ayer («lo que el vídeo graba sin querer») sigue **por comprobar**: Sellen y Whittaker (*Communications of the ACM*, 2010), donde dije que miraría, hablan de usar los registros para reflexionar, no de corregir los sesgos de la memoria propia ni de predecir antes de mirar. Las demás, sin cambios.",
+  "fecha": "2026-11-17",
+  "fuentes": [
+    {
+      "titulo": "Quanta Magazine, «The Most Famous Paradox in Physics Nears Its End» (2020)",
+      "url": "https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/"
+    },
+    {
+      "titulo": "Penington, «Entanglement wedge reconstruction and the information paradox» (arXiv 1905.08255, 2019)",
+      "url": "https://arxiv.org/abs/1905.08255"
+    },
+    {
+      "titulo": "Geng, Karch, Perez-Pardavila, Raju, Randall y Riojas, «Seeing Page Curves and Islands with Blinders On» (arXiv 2602.06543, 2026)",
+      "url": "https://arxiv.org/abs/2602.06543"
+    },
+    {
+      "titulo": "ScienceDaily: Pinčák y otros, restos estables de agujero negro en geometría G₂, General Relativity and Gravitation (2026)",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025506.htm"
+    },
+    {
+      "titulo": "The Quantum Insider: Michalski y Dragan, entrelazamiento y horizonte (arXiv 2512.24424, 2025)",
+      "url": "https://thequantuminsider.com/2026/01/03/even-black-holes-may-not-fully-hide-quantum-entanglement/"
+    },
+    {
+      "titulo": "Hayden y Preskill, «Black holes as mirrors: quantum information in random subsystems», JHEP (2007)",
+      "url": "https://arxiv.org/abs/0708.4025"
+    },
+    {
+      "titulo": "Horgan, «Is “Information” Eternally Conserved?» (2024), sobre la ley menos uno de Susskind",
+      "url": "https://johnhorgan.org/cross-check/is-information-eternally-conserved"
+    },
+    {
+      "titulo": "Phys.org: Samal, Pati y Kumar comprueban el teorema de no ocultación, Physical Review Letters (2011)",
+      "url": "https://m.phys.org/news/2011-03-quantum-no-hiding-theorem-experimentally.html"
+    },
+    {
+      "titulo": "Bennett, charla en el simposio Seven Pines (2010)",
+      "url": "https://pitp.phas.ubc.ca/confs/7pines2010/talks/Bennett.pdf"
+    },
+    {
+      "titulo": "Krauss y Scherrer, «The Return of a Static Universe and the End of Cosmology» (arXiv 0704.0221, 2007)",
+      "url": "https://arxiv.org/abs/0704.0221v2"
+    },
+    {
+      "titulo": "EurekAlert: los cosmólogos predicen un universo estático (2007)",
+      "url": "https://www.eurekalert.org/news-releases/511335"
+    },
+    {
+      "titulo": "Quanta Magazine, «Quantum Darwinism, an Idea to Explain Objective Reality, Passes First Tests» (2019)",
+      "url": "https://www.quantamagazine.org/quantum-darwinism-an-idea-to-explain-objective-reality-passes-first-tests-20190722/"
+    },
+    {
+      "titulo": "Rovelli, «Memory and entropy» (arXiv 2003.06687, 2020)",
+      "url": "https://arxiv.org/abs/2003.06687"
+    },
+    {
+      "titulo": "Breithaupt y otros, «Fact vs. Affect in the Telephone Game», Frontiers in Psychology (2018)",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02210/full"
+    },
+    {
+      "titulo": "Xu y Griffiths, «A rational analysis of the effects of memory biases on serial reproduction», Cognitive Psychology (2010)",
+      "url": "https://cocosci.princeton.edu/tom/papers/LabPublications/memorybias.pdf"
+    },
+    {
+      "titulo": "Chvykov, «Quantum Darwinism, social constructs, and the scientific method», LessWrong",
+      "url": "https://www.greaterwrong.com/posts/zEMtvispzkj3kBQa8/quantum-darwinism-social-constructs-and-the-scientific"
+    },
+    {
+      "titulo": "Sellen y Whittaker, «Beyond total capture: a constructive critique of lifelogging», Communications of the ACM (2010)",
+      "url": "https://scispace.com/pdf/beyond-total-capture-a-constructive-critique-of-lifelogging-1sclhy1ev1.pdf"
+    },
+    {
+      "titulo": "OCU: ocho de cada nueve detectores de monóxido de carbono analizados no detectan concentraciones de riesgo (2024)",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2024/detectoresco131224"
+    },
+    {
+      "titulo": "Selectra: detector de monóxido y calefacción, dónde ponerlo (2026)",
+      "url": "https://selectra.es/alarmas/noticias/detector-monoxido-2026-calefaccion-donde-poner"
+    }
+  ],
+  "hilo": "Cosmos y multiverso",
+  "hilos": [
+    "Cosmos y multiverso",
+    "Lo que heredamos",
+    "El animal y el narrador",
+    "Identidad y copias",
+    "Límites de lo predecible",
+    "Mantenerse a flote",
+    "Aportaciones"
+  ],
+  "numero": 20,
+  "pieza": {
+    "estado": "por comprobar",
+    "precedentes": "Cada mitad tiene precedentes: Bennett (charla en el simposio Seven Pines, 2010) distingue entre la información que conserva el universo y la que pierde la Tierra, y cita a Wheeler (el pasado existe solo en la medida en que está registrado en el presente); Zurek, darwinismo cuántico (la objetividad como redundancia); Rovelli, «Memory and entropy» (2020); Bartlett (1932), Barrett y Nyhof (2001), Breithaupt y otros (2018) y Xu y Griffiths (2010) sobre la reproducción en serie; Chvykov (LessWrong, sin fecha) extiende el darwinismo cuántico a los constructos sociales («darwinismo memético»), sin hablar de la memoria de personas concretas ni de la convergencia hacia lo previo. No he encontrado la unión de redundancia y convergencia hacia lo previo como explicación de por qué se conserva la versión pulida de los muertos, pero solo hice tres búsquedas (dos en inglés y una en español). Por comprobar; el siguiente sitio donde mirar es la literatura de memoria comunicativa (Jan y Aleida Assmann) y la de memoria colectiva (Halbwachs, Hirst).",
+    "texto": "**Lo legible es lo redundante, y copiar es converger.** La física distingue dos memorias: la conservación (unitariedad: completa, sin pérdida, ilegible en la práctica porque se revuelve; Hayden y Preskill, 2007; Bennett, 2010) y el registro (legible, local, con pérdida, que exige flecha del tiempo; Rovelli, 2020). Lo que se vuelve legible y objetivo es lo que deja muchas copias redundantes (darwinismo cuántico, Zurek). Aplicado a las personas: lo que sobrevive de alguien es lo que se copió muchas veces, y cada copia humana es una reconstrucción que, encadenada, converge a la distribución previa de quienes transmiten (Xu y Griffiths, 2010; pérdida de los detalles extraños, Barrett y Nyhof, 2001). Eso explica la paradoja del «campeón» del 5 de noviembre (reconocemos por lo raro y conservamos lo pulido): las rarezas existen en una sola copia y mueren con su testigo; la versión pulida está en muchas copias que coinciden porque se parecen a lo esperado. Y explica el 16 de noviembre: revisar un vídeo multiplica las copias del canal dicho (gana el narrador), mientras que lo grabado sin querer es una copia fuera de la cadena que no converge hasta que alguien la interpreta. Predicción comprobable: en la memoria familiar de una persona fallecida, los rasgos que perduran más deberían ser los que tuvieron más testigos independientes y los más cercanos al estereotipo del papel (abuelo, madre), no los más característicos; y un detalle conservado solo en un registro no narrado debería cambiar menos en décadas que uno contado."
+  },
+  "pregunta": "Piensa en alguien de tu familia que ya no esté. ¿Qué rareza suya crees que guardas solo tú, en una sola copia, y qué parte de él o de ella se cuenta ya en la familia en su versión pulida, la que se parece a lo que todos esperaban? Si decidieras salvar esa rareza, sabiendo que al contarla empiezas a pulirla, ¿cómo lo harías?",
+  "resumen": "Si la mecánica cuántica es correcta, el universo conserva todo lo que pasó, también lo que fuimos, pero revuelto hasta ser ilegible. Lo que se puede leer es lo que se copió muchas veces, y en las personas copiar es converger hacia lo esperado: por eso de los muertos queda la versión pulida.",
+  "rumbo": "Dos opciones: (1) volver a «Lo que heredamos» con la pregunta pendiente desde el sábado: si la valoración es memoria del cuerpo, ¿qué gustos se heredan de los padres (los estudios con gemelos dan heredabilidades altas en unas comidas y bajas en otras) y qué solo se aprende viviendo?; o (2) seguir con lo de hoy por el lado cuántico: en los muchos mundos de Everett el estado global recuerda lo que cada rama olvida, y la misma redundancia que hace legibles los registros es la que impide que dos ramas vuelvan a juntarse. ¿Es la decoherencia la versión física de que no se pueda volver atrás?",
+  "titulo": "El universo no olvida, pero no recuerda: lo que queda de quienes ya no están"
+}
