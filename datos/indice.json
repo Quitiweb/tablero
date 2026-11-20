@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-20",
+      "numero": 23,
+      "titulo": "Deshacer exige silencio: por qué tus ramas no vuelven a juntarse",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-19",
       "numero": 22,
       "titulo": "Mismo genoma, otra persona: lo que los gemelos separados dicen de tu escriba",
