@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-22",
+      "numero": 25,
+      "titulo": "Deshacer, borrar o silenciar: el cerebro guarda la respuesta y deja el camino en un cajón",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-21",
       "numero": 24,
       "titulo": "Guardar la respuesta, deshacer el camino: ¿hace falta ser irreversible para sentir?",
