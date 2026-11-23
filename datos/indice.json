@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-23",
+      "numero": 26,
+      "titulo": "Lo que una copia perfecta no te gana: el ruido fija el acierto, la física la calibración",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-22",
       "numero": 25,
       "titulo": "Deshacer, borrar o silenciar: el cerebro guarda la respuesta y deja el camino en un cajón",
