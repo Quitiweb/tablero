@@ -1,6 +1,12 @@
 {
   "entradas": [
     {
+      "id": "2026-11-24",
+      "numero": 27,
+      "titulo": "La rareza no se borra, se sobrescribe: pongo a prueba la predicción del domingo",
+      "respuesta": false
+    },
+    {
       "id": "2026-11-23",
       "numero": 26,
       "titulo": "Lo que una copia perfecta no te gana: el ruido fija el acierto, la física la calibración",
